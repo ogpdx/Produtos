@@ -1,1887 +1,1887 @@
 [
   {
-    "codigoProduto": "7080029CQ",
-    "descricaoProduto": "KIT TECLADO E MOUSE S/ FIO LOGITECH MK540",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029CQ",
+    "descricao": "KIT TECLADO E MOUSE S/ FIO LOGITECH MK540",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 810010007,
-    "descricaoProduto": "NOBREAK STATION 600VA BIVOLT APC",
-    "contaOrcamentariaProd": 140007
+    "codigo": 810010007,
+    "descricao": "NOBREAK STATION 600VA BIVOLT APC",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029CX",
-    "descricaoProduto": "MEMORIA NOTEBOOK KINGSTON 16GB DDR4 3200MHZ",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029CX",
+    "descricao": "MEMORIA NOTEBOOK KINGSTON 16GB DDR4 3200MHZ",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708001021,
-    "descricaoProduto": "PEN DRIVE 32GB",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708001021,
+    "descricao": "PEN DRIVE 32GB",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029CU",
-    "descricaoProduto": "HD EXTERNO SEAGATE EXPANSION DESKTOP 10TB USB 3,0 PRETO",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029CU",
+    "descricao": "HD EXTERNO SEAGATE EXPANSION DESKTOP 10TB USB 3,0 PRETO",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029CY",
-    "descricaoProduto": "ESPATULA PLAST METAL SPUDGER P/TABLET NOTEBOOK CELULAR X1468",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029CY",
+    "descricao": "ESPATULA PLAST METAL SPUDGER P/TABLET NOTEBOOK CELULAR X1468",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029CZ",
-    "descricaoProduto": "COLA PT T-7000 P/ TELA DE CELULAR 15ML IMPLASTEC",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029CZ",
+    "descricao": "COLA PT T-7000 P/ TELA DE CELULAR 15ML IMPLASTEC",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002079,
-    "descricaoProduto": "HD EXTERNO 2 TB",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002079,
+    "descricao": "HD EXTERNO 2 TB",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029CV",
-    "descricaoProduto": "SSD DELL KPM6XRUG3T84 3,84TB 24GBPS",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029CV",
+    "descricao": "SSD DELL KPM6XRUG3T84 3,84TB 24GBPS",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998DQ2",
-    "descricaoProduto": "SSD DELL KPM7XRUG3T84 3.84TB 24GBPS",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998DQ2",
+    "descricao": "SSD DELL KPM7XRUG3T84 3.84TB 24GBPS",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029BA",
-    "descricaoProduto": "DELL MEMORIA 32GB DDR4 3200MHZ 2RX4 RDIMMECC",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029BA",
+    "descricao": "DELL MEMORIA 32GB DDR4 3200MHZ 2RX4 RDIMMECC",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029D1",
-    "descricaoProduto": "MICROFONE LAPELA S/ FIO P/ ANDROID USB TP C PLUGINPLAY",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029D1",
+    "descricao": "MICROFONE LAPELA S/ FIO P/ ANDROID USB TP C PLUGINPLAY",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998BDE",
-    "descricaoProduto": "CAPA SKUDO STRAP GALAXY TAB A7 2020 T500 T505 ANTI IMPACTO",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998BDE",
+    "descricao": "CAPA SKUDO STRAP GALAXY TAB A7 2020 T500 T505 ANTI IMPACTO",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998DX1",
-    "descricaoProduto": "HD SSD 1,92 TB INTEL S4510 R440 SERVIDOR DELL",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998DX1",
+    "descricao": "HD SSD 1,92 TB INTEL S4510 R440 SERVIDOR DELL",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029D4",
-    "descricaoProduto": "TECLADO P/ NOTEBOOK THINKPAD E14 - ORIGINAL",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029D4",
+    "descricao": "TECLADO P/ NOTEBOOK THINKPAD E14 - ORIGINAL",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998AN1",
-    "descricaoProduto": "SWITCH HIKVISION DS-3E010HP-E",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998AN1",
+    "descricao": "SWITCH HIKVISION DS-3E010HP-E",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029CR",
-    "descricaoProduto": "COOLER SERVIDOR HP DL180 G9 GEN9 773194-001 773483-001",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029CR",
+    "descricao": "COOLER SERVIDOR HP DL180 G9 GEN9 773194-001 773483-001",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998DQA",
-    "descricaoProduto": "DISSIPADOR HEATSINK HP DL180 GEN9 G9 779091-001",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998DQA",
+    "descricao": "DISSIPADOR HEATSINK HP DL180 GEN9 G9 779091-001",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998DQ3",
-    "descricaoProduto": "ADAPTADOR GAVETA SERVIDOR DELL 3.5 / 2.5 SSD SAS SATA 9W8C4",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998DQ3",
+    "descricao": "ADAPTADOR GAVETA SERVIDOR DELL 3.5 / 2.5 SSD SAS SATA 9W8C4",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998DQ4",
-    "descricaoProduto": "MEMORIA DELL ECC 32GB DDR4 2666MHZ R440 R540 R640 R740",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998DQ4",
+    "descricao": "MEMORIA DELL ECC 32GB DDR4 2666MHZ R440 R540 R640 R740",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998DQ6",
-    "descricaoProduto": "PROCESSADOR XEON SILVER 4108 1.80GHZ R440 R540 R640 R740",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998DQ6",
+    "descricao": "PROCESSADOR XEON SILVER 4108 1.80GHZ R440 R540 R640 R740",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998DQ7",
-    "descricaoProduto": "DISSIPADOR HEATSINK 2 PROCESSADOR SERVIDOR DELL R440 R540",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998DQ7",
+    "descricao": "DISSIPADOR HEATSINK 2 PROCESSADOR SERVIDOR DELL R440 R540",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998DX0",
-    "descricaoProduto": "HD SSD 1,92 TB MIX USE R240 R340 R440 SERVIDOR DELL",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998DX0",
+    "descricao": "HD SSD 1,92 TB MIX USE R240 R340 R440 SERVIDOR DELL",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029D6",
-    "descricaoProduto": "INJETOR POE 60W POE-INJ2-60W-NA",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029D6",
+    "descricao": "INJETOR POE 60W POE-INJ2-60W-NA",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029CS",
-    "descricaoProduto": "DELL EXPRESS FLASH NVME P4610 1,6TB SFF",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029CS",
+    "descricao": "DELL EXPRESS FLASH NVME P4610 1,6TB SFF",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029CT",
-    "descricaoProduto": "DELL ENT NVME CM6 MU 1,6TB",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029CT",
+    "descricao": "DELL ENT NVME CM6 MU 1,6TB",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109HM",
-    "descricaoProduto": "NOBREAK BIVOLT SPW3200 3KVA ENGETRON",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109HM",
+    "descricao": "NOBREAK BIVOLT SPW3200 3KVA ENGETRON",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 800999524,
-    "descricaoProduto": "CAIXA DE SOM JABRA SPEAK 710 USB/BT FOR MS LINK370",
-    "contaOrcamentariaProd": 140007
+    "codigo": 800999524,
+    "descricao": "CAIXA DE SOM JABRA SPEAK 710 USB/BT FOR MS LINK370",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "799998DE3",
-    "descricaoProduto": "CAPA SKUDO STRAP GALAXY TAB A8 2021 X200 / X205 ANTI IMPACTO",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998DE3",
+    "descricao": "CAPA SKUDO STRAP GALAXY TAB A8 2021 X200 / X205 ANTI IMPACTO",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109CL",
-    "descricaoProduto": "CELULAR SMARTPHONE ATM R5 PRO",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109CL",
+    "descricao": "CELULAR SMARTPHONE ATM R5 PRO",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "799999DKD",
-    "descricaoProduto": "CONECTOR KEYSTONE CAT 6 T568A/B PRETO FURUKAWA GIGALAN",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999DKD",
+    "descricao": "CONECTOR KEYSTONE CAT 6 T568A/B PRETO FURUKAWA GIGALAN",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998E6Y",
-    "descricaoProduto": "CARREGADOR NOTEBOOK LENOVO IDEAPAD 320 81CC",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998E6Y",
+    "descricao": "CARREGADOR NOTEBOOK LENOVO IDEAPAD 320 81CC",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 800010635,
-    "descricaoProduto": "TRILHOS METALICOS P/ MAQUINA DE PROCESSAMENTO DE DADOS",
-    "contaOrcamentariaProd": 140007
+    "codigo": 800010635,
+    "descricao": "TRILHOS METALICOS P/ MAQUINA DE PROCESSAMENTO DE DADOS",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 800010636,
-    "descricaoProduto": "TRILHOS METALICOS P/ GERENCIAMENTO DE CABOS",
-    "contaOrcamentariaProd": 140007
+    "codigo": 800010636,
+    "descricao": "TRILHOS METALICOS P/ GERENCIAMENTO DE CABOS",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 810010691,
-    "descricaoProduto": "SERVIDOR DELL POWEREDGE R760 INTEL XEON GOLD 6426Y",
-    "contaOrcamentariaProd": 140007
+    "codigo": 810010691,
+    "descricao": "SERVIDOR DELL POWEREDGE R760 INTEL XEON GOLD 6426Y",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 708002948,
-    "descricaoProduto": "CORDAO OPTICO PACTH CORD SC/LC DUPLEX 3MT MONOMODO",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002948,
+    "descricao": "CORDAO OPTICO PACTH CORD SC/LC DUPLEX 3MT MONOMODO",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998E3I",
-    "descricaoProduto": "VELCRO PRETO ROLO 5M",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998E3I",
+    "descricao": "VELCRO PRETO ROLO 5M",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109HQ",
-    "descricaoProduto": "INTERFONE VIDEOPORTEIRO INTELBRAS IVR 7",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109HQ",
+    "descricao": "INTERFONE VIDEOPORTEIRO INTELBRAS IVR 7",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "890010ADO",
-    "descricaoProduto": "NOTEBOOK LENOVO THINKPAD E14 CORE I7 1165G7 U 16G 512GB SSD",
-    "contaOrcamentariaProd": 140007
+    "codigo": "890010ADO",
+    "descricao": "NOTEBOOK LENOVO THINKPAD E14 CORE I7 1165G7 U 16G 512GB SSD",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 708003022,
-    "descricaoProduto": "CAPA CINZA P/ IPHONE 15 PRO ANTI IMPACTO",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003022,
+    "descricao": "CAPA CINZA P/ IPHONE 15 PRO ANTI IMPACTO",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708003023,
-    "descricaoProduto": "PELICULA P/ IPHONE 15 PRO MAX",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003023,
+    "descricao": "PELICULA P/ IPHONE 15 PRO MAX",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708003024,
-    "descricaoProduto": "CARREGADOR USB-C DE 20W APPLE BC ORIGINAL",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003024,
+    "descricao": "CARREGADOR USB-C DE 20W APPLE BC ORIGINAL",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109PI",
-    "descricaoProduto": "CELULAR APPLE IPHONE 15 PRO MAX 1TB",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109PI",
+    "descricao": "CELULAR APPLE IPHONE 15 PRO MAX 1TB",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109PA",
-    "descricaoProduto": "PORCA GAIOLA BICROMATIZADA E PARAF M5 P/ RACKS",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109PA",
+    "descricao": "PORCA GAIOLA BICROMATIZADA E PARAF M5 P/ RACKS",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 810010027,
-    "descricaoProduto": "CONECTOR KEYSTONE CAT6",
-    "contaOrcamentariaProd": 140007
+    "codigo": 810010027,
+    "descricao": "CONECTOR KEYSTONE CAT6",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109IM",
-    "descricaoProduto": "TOTEM PEDESTAL DUAL AXIS P/ TABLETS SOMENTE ESTRUTURA",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109IM",
+    "descricao": "TOTEM PEDESTAL DUAL AXIS P/ TABLETS SOMENTE ESTRUTURA",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029CL",
-    "descricaoProduto": "HD WD PURPLE PRO 12TB - WD121PURP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029CL",
+    "descricao": "HD WD PURPLE PRO 12TB - WD121PURP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999DEI",
-    "descricaoProduto": "ETIQUETA P/ CABO TZEFX631 DA ETIQUETADORA P-TOUCH H110",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999DEI",
+    "descricao": "ETIQUETA P/ CABO TZEFX631 DA ETIQUETADORA P-TOUCH H110",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109HR",
-    "descricaoProduto": "GBIC HPE INSTANT ON 1G SFP LC LX 10KM SMF S0G20A",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109HR",
+    "descricao": "GBIC HPE INSTANT ON 1G SFP LC LX 10KM SMF S0G20A",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109HS",
-    "descricaoProduto": "GBIC HPE ARUBA NETWORKING 1G SFP LC LX 10KM SMF J4859D",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109HS",
+    "descricao": "GBIC HPE ARUBA NETWORKING 1G SFP LC LX 10KM SMF J4859D",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029D9",
-    "descricaoProduto": "TECLADO S/ FIO LOGITECH K270",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029D9",
+    "descricao": "TECLADO S/ FIO LOGITECH K270",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998E8E",
-    "descricaoProduto": "MODULO DE TRANSMISSAO DE DADOS P/ REDES S/ FIO 2.4 E 5GHZ",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998E8E",
+    "descricao": "MODULO DE TRANSMISSAO DE DADOS P/ REDES S/ FIO 2.4 E 5GHZ",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998E8F",
-    "descricaoProduto": "MODULO DE TRANSMISSAO DE DADOS P/ REDES S/ FIO WIRELESS",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998E8F",
+    "descricao": "MODULO DE TRANSMISSAO DE DADOS P/ REDES S/ FIO WIRELESS",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109CS",
-    "descricaoProduto": "UBIQUITI AP UNIFI UAP-AC-M MESH 2.4/5GHZ 300/867MBPS",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109CS",
+    "descricao": "UBIQUITI AP UNIFI UAP-AC-M MESH 2.4/5GHZ 300/867MBPS",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 800040007,
-    "descricaoProduto": "TV SMART 86POL LG 4K NANOCELL 86NANO75 120HZ HDMI 2.1",
-    "contaOrcamentariaProd": 140007
+    "codigo": 800040007,
+    "descricao": "TV SMART 86POL LG 4K NANOCELL 86NANO75 120HZ HDMI 2.1",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 708002863,
-    "descricaoProduto": "CARTUCHO HP 730 CYAN 300 ML P2V68A",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002863,
+    "descricao": "CARTUCHO HP 730 CYAN 300 ML P2V68A",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002868,
-    "descricaoProduto": "CARTUCHO HP 730 PHOTO BLACK PK 300 ML P2V73A",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002868,
+    "descricao": "CARTUCHO HP 730 PHOTO BLACK PK 300 ML P2V73A",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029DG",
-    "descricaoProduto": "COOLER FAN SERVIDOR DELL P/POWEREDGE R440 12V 0NW0CG",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029DG",
+    "descricao": "COOLER FAN SERVIDOR DELL P/POWEREDGE R440 12V 0NW0CG",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "81001099H",
-    "descricaoProduto": "PATCH CORD 1,5MT CAT6 FURUKAWA GIGALAN",
-    "contaOrcamentariaProd": 140007
+    "codigo": "81001099H",
+    "descricao": "PATCH CORD 1,5MT CAT6 FURUKAWA GIGALAN",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "799998E9C",
-    "descricaoProduto": "KIT PELICULA + ROLO PRESSOR FUSOR P/ HP M477 M452DW",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998E9C",
+    "descricao": "KIT PELICULA + ROLO PRESSOR FUSOR P/ HP M477 M452DW",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998EB8",
-    "descricaoProduto": "PLACA LOGICA P/ CATRACA HENRY 8X",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998EB8",
+    "descricao": "PLACA LOGICA P/ CATRACA HENRY 8X",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029DJ",
-    "descricaoProduto": "HD EXTERNO PORTATIL SEAGATE EXPANSION 4TB USB 3.0 PRETO",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029DJ",
+    "descricao": "HD EXTERNO PORTATIL SEAGATE EXPANSION 4TB USB 3.0 PRETO",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109HP",
-    "descricaoProduto": "RACK DE REDE ACO TOP SOLUTION PT G2 40X600US",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109HP",
+    "descricao": "RACK DE REDE ACO TOP SOLUTION PT G2 40X600US",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 799998753,
-    "descricaoProduto": "LEITORA DE CARTAO POR APROXIMIDADE CATRACA HENRY",
-    "contaOrcamentariaProd": 510006
+    "codigo": 799998753,
+    "descricao": "LEITORA DE CARTAO POR APROXIMIDADE CATRACA HENRY",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109CB",
-    "descricaoProduto": "IMPRESSORA LASER HP E57540DN MFP COR 38PPM A4",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109CB",
+    "descricao": "IMPRESSORA LASER HP E57540DN MFP COR 38PPM A4",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "89001091O",
-    "descricaoProduto": "NOTEBOOK LENOVO THINKPAD E480 CORE I7 8650 U 8G 1TB HD 13 NV",
-    "contaOrcamentariaProd": 140007
+    "codigo": "89001091O",
+    "descricao": "NOTEBOOK LENOVO THINKPAD E480 CORE I7 8650 U 8G 1TB HD 13 NV",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029AJ",
-    "descricaoProduto": "KINGSTONA 400 SSD 960GB SATA3 6GBPS 2.5IN - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029AJ",
+    "descricao": "KINGSTONA 400 SSD 960GB SATA3 6GBPS 2.5IN - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999DQA",
-    "descricaoProduto": "PAR DE TRILHOS P/ SERVIDOR DELL POWEREDGE 2950 E 2970",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999DQA",
+    "descricao": "PAR DE TRILHOS P/ SERVIDOR DELL POWEREDGE 2950 E 2970",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 840010150,
-    "descricaoProduto": "IMPRESSORA TERMICA 203DPIS C/ ETHERNET TEC-BPX320",
-    "contaOrcamentariaProd": 140007
+    "codigo": 840010150,
+    "descricao": "IMPRESSORA TERMICA 203DPIS C/ ETHERNET TEC-BPX320",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 708002059,
-    "descricaoProduto": "PLUG CONECTOR RJ45 MACHO CAT6",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002059,
+    "descricao": "PLUG CONECTOR RJ45 MACHO CAT6",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109QX",
-    "descricaoProduto": "NOTEBOOK YOGA SLIM 7X14POL SNAPDRAGON LAPTOP COSMIC BLUE",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109QX",
+    "descricao": "NOTEBOOK YOGA SLIM 7X14POL SNAPDRAGON LAPTOP COSMIC BLUE",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109P9",
-    "descricaoProduto": "SWITCH ARUBA 1930 8 PORTAS POE - JL681A",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109P9",
+    "descricao": "SWITCH ARUBA 1930 8 PORTAS POE - JL681A",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029C9",
-    "descricaoProduto": "NOBREAK SMS 600VA STATION II BIVOLT UST600BI",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029C9",
+    "descricao": "NOBREAK SMS 600VA STATION II BIVOLT UST600BI",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 800999017,
-    "descricaoProduto": "FRAGMENTADORA ES15CD 15 FLS CART DVD/CD CESTO 26L 220V PROCA",
-    "contaOrcamentariaProd": 140007
+    "codigo": 800999017,
+    "descricao": "FRAGMENTADORA ES15CD 15 FLS CART DVD/CD CESTO 26L 220V PROCA",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029DR",
-    "descricaoProduto": "FONTE E CABO USB-C 1,5M P/ TABLET A9+",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029DR",
+    "descricao": "FONTE E CABO USB-C 1,5M P/ TABLET A9+",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029DS",
-    "descricaoProduto": "FONTE DE ALIMENTACAO AC/DC 12V 5A EF 1205 INTELBRAS",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029DS",
+    "descricao": "FONTE DE ALIMENTACAO AC/DC 12V 5A EF 1205 INTELBRAS",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109PH",
-    "descricaoProduto": "SWITCH ARUBA 1830 POE 370W 48 PORTAS - JL815A",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109PH",
+    "descricao": "SWITCH ARUBA 1830 POE 370W 48 PORTAS - JL815A",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109R6",
-    "descricaoProduto": "CONJUNTO MODULO C/ 02 PORTAS POR MODULO VAZADO",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109R6",
+    "descricao": "CONJUNTO MODULO C/ 02 PORTAS POR MODULO VAZADO",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "70800299C",
-    "descricaoProduto": "CORDAO DUPLEX MONOMODO 9/125 SC/SC 2,5MTS CDS9SCXSC2,5 - IMP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "70800299C",
+    "descricao": "CORDAO DUPLEX MONOMODO 9/125 SC/SC 2,5MTS CDS9SCXSC2,5 - IMP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998EKH",
-    "descricaoProduto": "SSD SATA 512GB",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998EKH",
+    "descricao": "SSD SATA 512GB",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8,10E+09",
-    "descricaoProduto": "CELULAR SMARTPHONE ATM R5 PRO - IMPORT",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8,10E+09",
+    "descricao": "CELULAR SMARTPHONE ATM R5 PRO - IMPORT",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "89001091R",
-    "descricaoProduto": "MONITOR 27 WQHD IPS P27Q-10 LENOVO",
-    "contaOrcamentariaProd": 140007
+    "codigo": "89001091R",
+    "descricao": "MONITOR 27 WQHD IPS P27Q-10 LENOVO",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109EY",
-    "descricaoProduto": "TECLADO E MOUSE S/ FIO LOGITECH MK345",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109EY",
+    "descricao": "TECLADO E MOUSE S/ FIO LOGITECH MK345",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029DW",
-    "descricaoProduto": "MODULO DE BATERIA P/ NOBREAK APCRBC140",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029DW",
+    "descricao": "MODULO DE BATERIA P/ NOBREAK APCRBC140",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029CK",
-    "descricaoProduto": "SSD M2 REDRAGON BLAZE 512GB",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029CK",
+    "descricao": "SSD M2 REDRAGON BLAZE 512GB",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029D2",
-    "descricaoProduto": "PLACA MAE LENOVO V50S-07IMB M70C 3-07IMB05 IB460CX",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029D2",
+    "descricao": "PLACA MAE LENOVO V50S-07IMB M70C 3-07IMB05 IB460CX",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029DZ",
-    "descricaoProduto": "WEBCAM CONFERENCIA PTZ 4K ZOOM 4X AI TRACKING HCSTVCON",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029DZ",
+    "descricao": "WEBCAM CONFERENCIA PTZ 4K ZOOM 4X AI TRACKING HCSTVCON",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109PO",
-    "descricaoProduto": "SWITCH ARUBA 1830 POE 65W 8 PORTAS JL811A",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109PO",
+    "descricao": "SWITCH ARUBA 1830 POE 65W 8 PORTAS JL811A",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "799999E4X",
-    "descricaoProduto": "CAIXA DE CABO DE REDE FREEN CAT 6 LSZH AZUL FURUKAWA GIGALAN",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999E4X",
+    "descricao": "CAIXA DE CABO DE REDE FREEN CAT 6 LSZH AZUL FURUKAWA GIGALAN",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002001,
-    "descricaoProduto": "TECLADO USB PRETO",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002001,
+    "descricao": "TECLADO USB PRETO",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109EZ",
-    "descricaoProduto": "UNIFI U6-ENTERPRISE UBIQUITI",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109EZ",
+    "descricao": "UNIFI U6-ENTERPRISE UBIQUITI",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029DX",
-    "descricaoProduto": "BATERIA DE NOTEBOOK DELL Y3F7Y6B",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029DX",
+    "descricao": "BATERIA DE NOTEBOOK DELL Y3F7Y6B",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109G4",
-    "descricaoProduto": "IMPRESSORA HP THERMAL OFFICEJET PRO 9020 AIO",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109G4",
+    "descricao": "IMPRESSORA HP THERMAL OFFICEJET PRO 9020 AIO",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7009999FO",
-    "descricaoProduto": "PLACA FONTE PABX LEUCOTRON MOD ISION 1500 E 1600 BIVOLT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7009999FO",
+    "descricao": "PLACA FONTE PABX LEUCOTRON MOD ISION 1500 E 1600 BIVOLT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029DI",
-    "descricaoProduto": "KIT TONER HP 410X CF410X CF411X CF412X CF413X",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029DI",
+    "descricao": "KIT TONER HP 410X CF410X CF411X CF412X CF413X",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 810010139,
-    "descricaoProduto": "TECLADO STANDART USB PRETO",
-    "contaOrcamentariaProd": 140007
+    "codigo": 810010139,
+    "descricao": "TECLADO STANDART USB PRETO",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 708003029,
-    "descricaoProduto": "PELICULA NANOSHILD P/ IPHONE 16 PRO MAX",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003029,
+    "descricao": "PELICULA NANOSHILD P/ IPHONE 16 PRO MAX",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708003030,
-    "descricaoProduto": "PELICULA NANOSHILD P/ SAMSUNG S24 ULTRA",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003030,
+    "descricao": "PELICULA NANOSHILD P/ SAMSUNG S24 ULTRA",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708003031,
-    "descricaoProduto": "CAPA SKUDO P/ IPHONE 16 PRO MAX",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003031,
+    "descricao": "CAPA SKUDO P/ IPHONE 16 PRO MAX",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708003032,
-    "descricaoProduto": "CAPA SKUDO P/ SAMSUNG S24 ULTRA",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003032,
+    "descricao": "CAPA SKUDO P/ SAMSUNG S24 ULTRA",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029DY",
-    "descricaoProduto": "EXPANSOR HUB USB 3.0 C/ 7 PORTAS 5.0 GBPS",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029DY",
+    "descricao": "EXPANSOR HUB USB 3.0 C/ 7 PORTAS 5.0 GBPS",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002900,
-    "descricaoProduto": "UNIDADE FUSORA HP LASERJET MFP M477FDW ORIGINAL",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002900,
+    "descricao": "UNIDADE FUSORA HP LASERJET MFP M477FDW ORIGINAL",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999E2X",
-    "descricaoProduto": "EXTENSOR HDMI RJ45 60M ADAPTADOR CABO REDE CAT 6",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999E2X",
+    "descricao": "EXTENSOR HDMI RJ45 60M ADAPTADOR CABO REDE CAT 6",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109RD",
-    "descricaoProduto": "ACCESS POINT UBIQUITI UNIFI WI-FI 6 MESH",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109RD",
+    "descricao": "ACCESS POINT UBIQUITI UNIFI WI-FI 6 MESH",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109RE",
-    "descricaoProduto": "MINI DESKTOP LENOVO M80Q GEN 3 CORE I5 SSD 256GB WINDOWS 11",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109RE",
+    "descricao": "MINI DESKTOP LENOVO M80Q GEN 3 CORE I5 SSD 256GB WINDOWS 11",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "799998CI5",
-    "descricaoProduto": "CABLE SEAL LIGHT 1.5",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998CI5",
+    "descricao": "CABLE SEAL LIGHT 1.5",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998F3Q",
-    "descricaoProduto": "HEADSET S/ FIO DELL PRO WL5024",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998F3Q",
+    "descricao": "HEADSET S/ FIO DELL PRO WL5024",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 800999535,
-    "descricaoProduto": "WEBCAM HD GROUP LOGITECH 960-001054 - PRETO",
-    "contaOrcamentariaProd": 140007
+    "codigo": 800999535,
+    "descricao": "WEBCAM HD GROUP LOGITECH 960-001054 - PRETO",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 702003713,
-    "descricaoProduto": "CABO HPE X240 DAC 40GB QSFP+ 3M JG327A",
-    "contaOrcamentariaProd": 510006
+    "codigo": 702003713,
+    "descricao": "CABO HPE X240 DAC 40GB QSFP+ 3M JG327A",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029C1",
-    "descricaoProduto": "CARTUCHO DE TONER HP W9063MC MAGENTA 12200 PGS - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029C1",
+    "descricao": "CARTUCHO DE TONER HP W9063MC MAGENTA 12200 PGS - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029C2",
-    "descricaoProduto": "CARTUCHO DE TONER HP W9062MC AMARELO 12200 PGS - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029C2",
+    "descricao": "CARTUCHO DE TONER HP W9062MC AMARELO 12200 PGS - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "702004A95",
-    "descricaoProduto": "MINI PC TX4 SMART PROCESSADOR AMLOGIC S905X4",
-    "contaOrcamentariaProd": 510006
+    "codigo": "702004A95",
+    "descricao": "MINI PC TX4 SMART PROCESSADOR AMLOGIC S905X4",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999EB0",
-    "descricaoProduto": "RX-AC-SM - RECEPTORES PESSOAIS DE RADIO MENSAGEM",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999EB0",
+    "descricao": "RX-AC-SM - RECEPTORES PESSOAIS DE RADIO MENSAGEM",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109RV",
-    "descricaoProduto": "ROTEADOR DM2500 4GTMODULO CISCO PVDM3-16",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109RV",
+    "descricao": "ROTEADOR DM2500 4GTMODULO CISCO PVDM3-16",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109RW",
-    "descricaoProduto": "CORDAO OPT SC-APC LC-PC 5M MONOMODO",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109RW",
+    "descricao": "CORDAO OPT SC-APC LC-PC 5M MONOMODO",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109RX",
-    "descricaoProduto": "SFP1000BASE-BX20-U TX1310 RS1550 LC-1CH",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109RX",
+    "descricao": "SFP1000BASE-BX20-U TX1310 RS1550 LC-1CH",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109RY",
-    "descricaoProduto": "GATEWAY E1 SIP COM 1E1",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109RY",
+    "descricao": "GATEWAY E1 SIP COM 1E1",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "799998FB0",
-    "descricaoProduto": "MEMORIA SAMSUNG 64GB 3200MHZ 2RX4 DDR4",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998FB0",
+    "descricao": "MEMORIA SAMSUNG 64GB 3200MHZ 2RX4 DDR4",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 800010440,
-    "descricaoProduto": "TECLADO USB PRETO",
-    "contaOrcamentariaProd": 140007
+    "codigo": 800010440,
+    "descricao": "TECLADO USB PRETO",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029DH",
-    "descricaoProduto": "CAMERA WEBCAM FULL HD 1080P LOGITECH BRIO 100",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029DH",
+    "descricao": "CAMERA WEBCAM FULL HD 1080P LOGITECH BRIO 100",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029C5",
-    "descricaoProduto": "NOBREAK 600VA E/S 220V",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029C5",
+    "descricao": "NOBREAK 600VA E/S 220V",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002933,
-    "descricaoProduto": "CAIXA DE SOM JABRA SPEAK 710 USB/BT FOR MS LINK370",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002933,
+    "descricao": "CAIXA DE SOM JABRA SPEAK 710 USB/BT FOR MS LINK370",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002951,
-    "descricaoProduto": "MEMORIA DDR3 8G KINGSTON - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002951,
+    "descricao": "MEMORIA DDR3 8G KINGSTON - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999E5X",
-    "descricaoProduto": "CABO HDMI 4K 1,5M",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999E5X",
+    "descricao": "CABO HDMI 4K 1,5M",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109QT",
-    "descricaoProduto": "ARUBA INSTANT ON 1930 24G CLASS4 POE 4SFP/SFP+ 195W JL683B",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109QT",
+    "descricao": "ARUBA INSTANT ON 1930 24G CLASS4 POE 4SFP/SFP+ 195W JL683B",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "799999ED2",
-    "descricaoProduto": "CONTROLADORA HP P440 4G SAS 12GBPS PN 726821-B21",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999ED2",
+    "descricao": "CONTROLADORA HP P440 4G SAS 12GBPS PN 726821-B21",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999ED3",
-    "descricaoProduto": "CABO HP WIDE SAS P/ MINI SAS",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999ED3",
+    "descricao": "CABO HP WIDE SAS P/ MINI SAS",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002814,
-    "descricaoProduto": "KIT TECLADO E MOUSE HP C2500",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002814,
+    "descricao": "KIT TECLADO E MOUSE HP C2500",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002879,
-    "descricaoProduto": "CABO CONVERSOR ADAPTADOR HDMI P/ VGA C/ SAIDA P2 DE AUDIO",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002879,
+    "descricao": "CABO CONVERSOR ADAPTADOR HDMI P/ VGA C/ SAIDA P2 DE AUDIO",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029BM",
-    "descricaoProduto": "CILINDRO E TONER DA IMPRESSORA BROTHER DCP-L2540DW",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029BM",
+    "descricao": "CILINDRO E TONER DA IMPRESSORA BROTHER DCP-L2540DW",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998E3H",
-    "descricaoProduto": "GUIA DE CABO GP SOLUTION 1U 80MM",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998E3H",
+    "descricao": "GUIA DE CABO GP SOLUTION 1U 80MM",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999EB4",
-    "descricaoProduto": "CABO HDMI 2.1 8K ARC HDR ULTRAHD 20MT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999EB4",
+    "descricao": "CABO HDMI 2.1 8K ARC HDR ULTRAHD 20MT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999E4Y",
-    "descricaoProduto": "PATCH CORD GREEN CAT 6 LSZH AZ 1.5MT FURUKAWA GIGALAN",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999E4Y",
+    "descricao": "PATCH CORD GREEN CAT 6 LSZH AZ 1.5MT FURUKAWA GIGALAN",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029D5",
-    "descricaoProduto": "ADAPTADOR DISPLAYPORT HDMI P/ PC",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029D5",
+    "descricao": "ADAPTADOR DISPLAYPORT HDMI P/ PC",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708003027,
-    "descricaoProduto": "PELICULA NANOSHILD P/ MOTOROLA G55",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003027,
+    "descricao": "PELICULA NANOSHILD P/ MOTOROLA G55",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708003034,
-    "descricaoProduto": "CAPA SKUDO P/ MOTOROLA G55",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003034,
+    "descricao": "CAPA SKUDO P/ MOTOROLA G55",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998AN0",
-    "descricaoProduto": "SWITCH HIKVISION DS-3E0106HP-E",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998AN0",
+    "descricao": "SWITCH HIKVISION DS-3E0106HP-E",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002864,
-    "descricaoProduto": "CARTUCHO HP 730 MAGENTA 300 ML P2V69A",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002864,
+    "descricao": "CARTUCHO HP 730 MAGENTA 300 ML P2V69A",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002867,
-    "descricaoProduto": "CARTUCHO HP 730 GRAY 300 ML P2V72A",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002867,
+    "descricao": "CARTUCHO HP 730 GRAY 300 ML P2V72A",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029BL",
-    "descricaoProduto": "CABECA DE IMPRESSAO 731 - PLOTTER",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029BL",
+    "descricao": "CABECA DE IMPRESSAO 731 - PLOTTER",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999ED6",
-    "descricaoProduto": "KIT 4 TINTA EPSON PRETO CIANO MAGENTA AMARELO T544520-4P",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999ED6",
+    "descricao": "KIT 4 TINTA EPSON PRETO CIANO MAGENTA AMARELO T544520-4P",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109RZ",
-    "descricaoProduto": "IMPRESSORA MULTIFUNCIONAL TANQUE DE TINTA ECOTANK A3 L14150",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109RZ",
+    "descricao": "IMPRESSORA MULTIFUNCIONAL TANQUE DE TINTA ECOTANK A3 L14150",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 708003028,
-    "descricaoProduto": "PELICULA NANOSHILD P/ SAMSUNG A55",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003028,
+    "descricao": "PELICULA NANOSHILD P/ SAMSUNG A55",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 810010900000,
-    "descricaoProduto": "FORTIGATE 100F - IMPORT",
-    "contaOrcamentariaProd": 140007
+    "codigo": 810010900000,
+    "descricao": "FORTIGATE 100F - IMPORT",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 708003026,
-    "descricaoProduto": "GRP2602G TELEFONE IP 34 TERMINAIS GRANDSTREAM",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003026,
+    "descricao": "GRP2602G TELEFONE IP 34 TERMINAIS GRANDSTREAM",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002002,
-    "descricaoProduto": "MOUSE OPTICO LUMINOSO USB",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002002,
+    "descricao": "MOUSE OPTICO LUMINOSO USB",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029A4",
-    "descricaoProduto": "FITA MAGNETICA LTO8 1 PACOTE C/ 5 UNIDADES - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029A4",
+    "descricao": "FITA MAGNETICA LTO8 1 PACOTE C/ 5 UNIDADES - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029B2",
-    "descricaoProduto": "LEITOR RFID PROXIMIDADE 125KHZ 8 DIGITOS WIEGAND PLUG E PLAY",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029B2",
+    "descricao": "LEITOR RFID PROXIMIDADE 125KHZ 8 DIGITOS WIEGAND PLUG E PLAY",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7009999GY",
-    "descricaoProduto": "BATERIA P840 P440AR 96W G9 815983-001",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7009999GY",
+    "descricao": "BATERIA P840 P440AR 96W G9 815983-001",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002900000000,
-    "descricaoProduto": "PLACA PCI EXPRESS LOW PROFILE 2 PORTAS SERIAIS COMTAC 9134",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002900000000,
+    "descricao": "PLACA PCI EXPRESS LOW PROFILE 2 PORTAS SERIAIS COMTAC 9134",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029CW",
-    "descricaoProduto": "MOUSE S/ FIO LOGITECH M170",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029CW",
+    "descricao": "MOUSE S/ FIO LOGITECH M170",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029BX",
-    "descricaoProduto": "SSD ADATA 128GB M.2 2280 SX6000NP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029BX",
+    "descricao": "SSD ADATA 128GB M.2 2280 SX6000NP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 729010011,
-    "descricaoProduto": "ALCOOL ISOPROPILICO GL 1L",
-    "contaOrcamentariaProd": 510006
+    "codigo": 729010011,
+    "descricao": "ALCOOL ISOPROPILICO GL 1L",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 800999678,
-    "descricaoProduto": "NOBREAK APC TORRE EASY UPC SENOIDAL DUPLA CONV 1000VA 230V",
-    "contaOrcamentariaProd": 140007
+    "codigo": 800999678,
+    "descricao": "NOBREAK APC TORRE EASY UPC SENOIDAL DUPLA CONV 1000VA 230V",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "799998EB4",
-    "descricaoProduto": "MOCHILA P/ NOTEBOOK LENOVO 15,6POL TECIDO IMPERMEAVEL",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998EB4",
+    "descricao": "MOCHILA P/ NOTEBOOK LENOVO 15,6POL TECIDO IMPERMEAVEL",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029ED",
-    "descricaoProduto": "CILINDRO P/ IMPRESSORA DRB021",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029ED",
+    "descricao": "CILINDRO P/ IMPRESSORA DRB021",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 800999681,
-    "descricaoProduto": "IMPRESSORA LASER MONOCROMATICA HL-B2080DW",
-    "contaOrcamentariaProd": 140007
+    "codigo": 800999681,
+    "descricao": "IMPRESSORA LASER MONOCROMATICA HL-B2080DW",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "799998E6X",
-    "descricaoProduto": "CARREGADOR COMPLETO USB-C 20W CELULAR SAMSUNG",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998E6X",
+    "descricao": "CARREGADOR COMPLETO USB-C 20W CELULAR SAMSUNG",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029EG",
-    "descricaoProduto": "MEMORIA RAM DDR4 16GB 2400MHZ (NOTEBOOK)",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029EG",
+    "descricao": "MEMORIA RAM DDR4 16GB 2400MHZ (NOTEBOOK)",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998DDQ",
-    "descricaoProduto": "CARREGADOR DE PAREDE SUPER FAST CHARGING 45W",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998DDQ",
+    "descricao": "CARREGADOR DE PAREDE SUPER FAST CHARGING 45W",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029EM",
-    "descricaoProduto": "PATCH CORD 1,5MT CAT 6 FURUKAWA VERM P/ RACKS 12US",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029EM",
+    "descricao": "PATCH CORD 1,5MT CAT 6 FURUKAWA VERM P/ RACKS 12US",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029EF",
-    "descricaoProduto": "CARTAO DE MEMORIA MICROSD 4GB",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029EF",
+    "descricao": "CARTAO DE MEMORIA MICROSD 4GB",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029C0",
-    "descricaoProduto": "CARTUCHO DE TONER HP W9061MC CIANO 12200 PGS - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029C0",
+    "descricao": "CARTUCHO DE TONER HP W9061MC CIANO 12200 PGS - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109D0",
-    "descricaoProduto": "NOBREAK 1F E230/400V S230V 15KVA",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109D0",
+    "descricao": "NOBREAK 1F E230/400V S230V 15KVA",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109R2",
-    "descricaoProduto": "CELULAR APPLE IPHONE 16 PRO MAX 256GB",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109R2",
+    "descricao": "CELULAR APPLE IPHONE 16 PRO MAX 256GB",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 708002993,
-    "descricaoProduto": "CARTUCHO CILINDRO BROTHER TN2340",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002993,
+    "descricao": "CARTUCHO CILINDRO BROTHER TN2340",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029CO",
-    "descricaoProduto": "HD SEAGATE 10TB SATA 3 3,5POL",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029CO",
+    "descricao": "HD SEAGATE 10TB SATA 3 3,5POL",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 700001405,
-    "descricaoProduto": "RACK OUTDOOR DE POSTE 19POL",
-    "contaOrcamentariaProd": 510006
+    "codigo": 700001405,
+    "descricao": "RACK OUTDOOR DE POSTE 19POL",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029ET",
-    "descricaoProduto": "CABO DELL 100GB QSFP28/QSFP28 0,5 METRO 470-ABOU",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029ET",
+    "descricao": "CABO DELL 100GB QSFP28/QSFP28 0,5 METRO 470-ABOU",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998ELW",
-    "descricaoProduto": "SWITCH HIKVISION DS-3E0109P-E/M B POE 8 PORTAS",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998ELW",
+    "descricao": "SWITCH HIKVISION DS-3E0109P-E/M B POE 8 PORTAS",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029EV",
-    "descricaoProduto": "CARREGADOR HP 150W",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029EV",
+    "descricao": "CARREGADOR HP 150W",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029BE",
-    "descricaoProduto": "CABO HDMI 1.4 MD9 10M",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029BE",
+    "descricao": "CABO HDMI 1.4 MD9 10M",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708003033,
-    "descricaoProduto": "CAPA SKUDO P/ SAMSUNG A55",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003033,
+    "descricao": "CAPA SKUDO P/ SAMSUNG A55",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029F0",
-    "descricaoProduto": "MEMORIA RAM DDR4 VERDE 8GB KINGSTON KVR26N19S8/8",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029F0",
+    "descricao": "MEMORIA RAM DDR4 VERDE 8GB KINGSTON KVR26N19S8/8",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 800999727,
-    "descricaoProduto": "UBIQUITI UNIFI U7 PRO",
-    "contaOrcamentariaProd": 140007
+    "codigo": 800999727,
+    "descricao": "UBIQUITI UNIFI U7 PRO",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 708002802,
-    "descricaoProduto": "CABO HDMI",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002802,
+    "descricao": "CABO HDMI",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002977,
-    "descricaoProduto": "TONER BROTHER TN 2340 - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002977,
+    "descricao": "TONER BROTHER TN 2340 - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109DC",
-    "descricaoProduto": "CONVERSOR OPTICO WDM 10/100/1000 A/B PLANET",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109DC",
+    "descricao": "CONVERSOR OPTICO WDM 10/100/1000 A/B PLANET",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109S3",
-    "descricaoProduto": "UI. U6-MESH-PRO UNIFI AP AC WIFI6 2.4/5GHZ GIGA 250 US",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109S3",
+    "descricao": "UI. U6-MESH-PRO UNIFI AP AC WIFI6 2.4/5GHZ GIGA 250 US",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109CQ",
-    "descricaoProduto": "MONITOR SAMSUNG F27G35TFW - 27 POLEGADA FULL HD 144HZ",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109CQ",
+    "descricao": "MONITOR SAMSUNG F27G35TFW - 27 POLEGADA FULL HD 144HZ",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109RF",
-    "descricaoProduto": "IPAD PRO APPLE 13POL 256 M4 WIFI MWRJ3BZ",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109RF",
+    "descricao": "IPAD PRO APPLE 13POL 256 M4 WIFI MWRJ3BZ",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109RG",
-    "descricaoProduto": "APPLE PENCIL PRO MX2D3AM/A P/ IPAD",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109RG",
+    "descricao": "APPLE PENCIL PRO MX2D3AM/A P/ IPAD",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029FA",
-    "descricaoProduto": "MEMORIA RAM 8GB DDR4 2400MHZ DESKTOP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FA",
+    "descricao": "MEMORIA RAM 8GB DDR4 2400MHZ DESKTOP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FB",
-    "descricaoProduto": "MEMORIA RAM 8GB DDR4 2133MHZ NOTEBOOK",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FB",
+    "descricao": "MEMORIA RAM 8GB DDR4 2133MHZ NOTEBOOK",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FC",
-    "descricaoProduto": "MEMORIA RAM 8GB DDR4 2133MHZ DESKTOP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FC",
+    "descricao": "MEMORIA RAM 8GB DDR4 2133MHZ DESKTOP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FD",
-    "descricaoProduto": "MEMORIA RAM 8GB DDR4 2666MHZ NOTEBOOK",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FD",
+    "descricao": "MEMORIA RAM 8GB DDR4 2666MHZ NOTEBOOK",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FF",
-    "descricaoProduto": "MEMORIA RAM 8GB DDR4 3200MHZ NOTEBOOK",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FF",
+    "descricao": "MEMORIA RAM 8GB DDR4 3200MHZ NOTEBOOK",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FG",
-    "descricaoProduto": "MEMORIA RAM 8GB DDR4 3200MHZ DESKTOP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FG",
+    "descricao": "MEMORIA RAM 8GB DDR4 3200MHZ DESKTOP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FH",
-    "descricaoProduto": "MEMORIA RAM 16GB DDR4 2400MHZ DESKTOP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FH",
+    "descricao": "MEMORIA RAM 16GB DDR4 2400MHZ DESKTOP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FI",
-    "descricaoProduto": "MEMORIA RAM 16GB DDR4 2133MHZ NOTEBOOK",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FI",
+    "descricao": "MEMORIA RAM 16GB DDR4 2133MHZ NOTEBOOK",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FJ",
-    "descricaoProduto": "MEMORIA RAM 16GB DDR4 2133MHZ DESKTOP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FJ",
+    "descricao": "MEMORIA RAM 16GB DDR4 2133MHZ DESKTOP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FL",
-    "descricaoProduto": "MEMORIA RAM 16GB DDR4 2666MHZ DESKTOP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FL",
+    "descricao": "MEMORIA RAM 16GB DDR4 2666MHZ DESKTOP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FN",
-    "descricaoProduto": "MEMORIA RAM 16GB DDR4 3200MHZ DESKTOP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FN",
+    "descricao": "MEMORIA RAM 16GB DDR4 3200MHZ DESKTOP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FO",
-    "descricaoProduto": "MEMORIA RAM 32GB DDR4 2400MHZ NOTEBOOK",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FO",
+    "descricao": "MEMORIA RAM 32GB DDR4 2400MHZ NOTEBOOK",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FP",
-    "descricaoProduto": "MEMORIA RAM 32GB DDR4 2400MHZ DESKTOP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FP",
+    "descricao": "MEMORIA RAM 32GB DDR4 2400MHZ DESKTOP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FQ",
-    "descricaoProduto": "MEMORIA RAM 32GB DDR4 2133MHZ NOTEBOOK",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FQ",
+    "descricao": "MEMORIA RAM 32GB DDR4 2133MHZ NOTEBOOK",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FR",
-    "descricaoProduto": "MEMORIA RAM 32GB DDR4 2133MHZ DESKTOP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FR",
+    "descricao": "MEMORIA RAM 32GB DDR4 2133MHZ DESKTOP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FS",
-    "descricaoProduto": "MEMORIA RAM 32GB DDR4 2666MHZ NOTEBOOK",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FS",
+    "descricao": "MEMORIA RAM 32GB DDR4 2666MHZ NOTEBOOK",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FT",
-    "descricaoProduto": "MEMORIA RAM 32GB DDR4 2666MHZ DESKTOP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FT",
+    "descricao": "MEMORIA RAM 32GB DDR4 2666MHZ DESKTOP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FU",
-    "descricaoProduto": "MEMORIA RAM 32GB DDR4 3200MHZ NOTEBOOK",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FU",
+    "descricao": "MEMORIA RAM 32GB DDR4 3200MHZ NOTEBOOK",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FV",
-    "descricaoProduto": "MEMORIA RAM 32GB DDR4 3200MHZ DESKTOP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FV",
+    "descricao": "MEMORIA RAM 32GB DDR4 3200MHZ DESKTOP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FY",
-    "descricaoProduto": "SSD NVME 250GB GEN4",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FY",
+    "descricao": "SSD NVME 250GB GEN4",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FZ",
-    "descricaoProduto": "SSD NVME 250GB GEN5",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FZ",
+    "descricao": "SSD NVME 250GB GEN5",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029C4",
-    "descricaoProduto": "CONVERSOR OPTICO WDM 10/100/1000 A B PLANET",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029C4",
+    "descricao": "CONVERSOR OPTICO WDM 10/100/1000 A B PLANET",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 7080029000000000,
-    "descricaoProduto": "SUPORTE AJUSTAVEL BASE P/ MONITOR",
-    "contaOrcamentariaProd": 510006
+    "codigo": 7080029000000000,
+    "descricao": "SUPORTE AJUSTAVEL BASE P/ MONITOR",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998EW6",
-    "descricaoProduto": "CABO HDMI 2.1 8K ARC HDR ULTRAHD 5MT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998EW6",
+    "descricao": "CABO HDMI 2.1 8K ARC HDR ULTRAHD 5MT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999BEE",
-    "descricaoProduto": "FRENTE FALSA PAINEL DE FECHAMENTO 1U PRETO PARA RACK 19",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999BEE",
+    "descricao": "FRENTE FALSA PAINEL DE FECHAMENTO 1U PRETO PARA RACK 19",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109CH",
-    "descricaoProduto": "SWITCH SISTEMA COMUTADOR PCT DADOS DELL EMC S4112F - IMPORT",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109CH",
+    "descricao": "SWITCH SISTEMA COMUTADOR PCT DADOS DELL EMC S4112F - IMPORT",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "799998DQ5",
-    "descricaoProduto": "PROCESSADOR INTEL XEON E5-2620 V3 BX80644E52620V3",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998DQ5",
+    "descricao": "PROCESSADOR INTEL XEON E5-2620 V3 BX80644E52620V3",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998FKA",
-    "descricaoProduto": "PLACA DE REDE DELL 57810S SFP+ 2-PORT 10GB - PN:N20KJ",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998FKA",
+    "descricao": "PLACA DE REDE DELL 57810S SFP+ 2-PORT 10GB - PN:N20KJ",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998FKB",
-    "descricaoProduto": "MEMORIA RAM SMART 16GB 1333MHZ 2RX4 DDR3 RDIMM ECC M393B2G70",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998FKB",
+    "descricao": "MEMORIA RAM SMART 16GB 1333MHZ 2RX4 DDR3 RDIMM ECC M393B2G70",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998FK9",
-    "descricaoProduto": "GAVETA DELL P/ LINHA 10/20/30 3.5",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998FK9",
+    "descricao": "GAVETA DELL P/ LINHA 10/20/30 3.5",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109S6",
-    "descricaoProduto": "SERVIDOR DELL POWEREDGE R720 R2U",
-    "contaOrcamentariaProd": 510006
+    "codigo": "8100109S6",
+    "descricao": "SERVIDOR DELL POWEREDGE R720 R2U",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029EU",
-    "descricaoProduto": "PATCH CORD 2,5M CAT6 GIGALAN AZUL",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029EU",
+    "descricao": "PATCH CORD 2,5M CAT6 GIGALAN AZUL",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029EW",
-    "descricaoProduto": "PROCESSADOR INTEL XEON 6122 20/40 CORE 1.8GHZ",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029EW",
+    "descricao": "PROCESSADOR INTEL XEON 6122 20/40 CORE 1.8GHZ",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029EY",
-    "descricaoProduto": "PROCESSADOR INTEL XEON E5-2683 V4 16 NUCLEOS 2.1GHZ",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029EY",
+    "descricao": "PROCESSADOR INTEL XEON E5-2683 V4 16 NUCLEOS 2.1GHZ",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002953,
-    "descricaoProduto": "CORDOES MM50 LC/LC 1,5M - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002953,
+    "descricao": "CORDOES MM50 LC/LC 1,5M - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 799998923,
-    "descricaoProduto": "CORDAO OPTICO DUPLEX SM LC LC 2,5M",
-    "contaOrcamentariaProd": 510006
+    "codigo": 799998923,
+    "descricao": "CORDAO OPTICO DUPLEX SM LC LC 2,5M",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029BW",
-    "descricaoProduto": "SSD KINGSTON 240GB SA400S37",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029BW",
+    "descricao": "SSD KINGSTON 240GB SA400S37",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029EN",
-    "descricaoProduto": "CASE P/ TABLET TT-19 C/ CONECTOR USB-C TURTUR CASE",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029EN",
+    "descricao": "CASE P/ TABLET TT-19 C/ CONECTOR USB-C TURTUR CASE",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029G2",
-    "descricaoProduto": "PLAUD NOTE GRAVADOR DE VOZ AI E TRADUTOR COM CHATGPT 64GB",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029G2",
+    "descricao": "PLAUD NOTE GRAVADOR DE VOZ AI E TRADUTOR COM CHATGPT 64GB",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7009999HW",
-    "descricaoProduto": "BANDEJA FIXA RACK 1U",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7009999HW",
+    "descricao": "BANDEJA FIXA RACK 1U",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029EZ",
-    "descricaoProduto": "PENDRIVE KINGSTON DTKN/64GB 64GB",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029EZ",
+    "descricao": "PENDRIVE KINGSTON DTKN/64GB 64GB",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029F3",
-    "descricaoProduto": "GABINETE INFERIOR COMPATIVEL C/ THINKPAD E480 E485 E480C",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029F3",
+    "descricao": "GABINETE INFERIOR COMPATIVEL C/ THINKPAD E480 E485 E480C",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029F5",
-    "descricaoProduto": "CARCACA SUPERIOR LENOVO THINKPAD E480 E485 E490 PRETO",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029F5",
+    "descricao": "CARCACA SUPERIOR LENOVO THINKPAD E480 E485 E490 PRETO",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998C3M",
-    "descricaoProduto": "LICENCA DE USO DO SW GERENCIADOR INNER REP - INNER PONTO/373",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998C3M",
+    "descricao": "LICENCA DE USO DO SW GERENCIADOR INNER REP - INNER PONTO/373",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109SO",
-    "descricaoProduto": "LEITOR FACIAL HIKVISION DS-K1T342MWX-E1 POE",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109SO",
+    "descricao": "LEITOR FACIAL HIKVISION DS-K1T342MWX-E1 POE",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029BP",
-    "descricaoProduto": "CARTUCHO DE TONER HP W9060MC BLACK 15000 PGS - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029BP",
+    "descricao": "CARTUCHO DE TONER HP W9060MC BLACK 15000 PGS - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109CZ",
-    "descricaoProduto": "CAIXA DE CABO DE REDE CAT 6 GIGALAN",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109CZ",
+    "descricao": "CAIXA DE CABO DE REDE CAT 6 GIGALAN",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029DT",
-    "descricaoProduto": "CHIP VIVO PRE PAGO P/ CELULAR",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029DT",
+    "descricao": "CHIP VIVO PRE PAGO P/ CELULAR",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029F4",
-    "descricaoProduto": "SSD KINGSTON 1.92TB DATA CENTER DC600M 2.5 - SEDC600M/1920G",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029F4",
+    "descricao": "SSD KINGSTON 1.92TB DATA CENTER DC600M 2.5 - SEDC600M/1920G",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109IN",
-    "descricaoProduto": "TABLET GALAXY TAB A9 64GB - 4GBRAM SAMSUNG",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109IN",
+    "descricao": "TABLET GALAXY TAB A9 64GB - 4GBRAM SAMSUNG",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029F2",
-    "descricaoProduto": "MEMORIA RAM VERDE 8GB 1 KINGSTON KCP432SS8/8 3200MHZ",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029F2",
+    "descricao": "MEMORIA RAM VERDE 8GB 1 KINGSTON KCP432SS8/8 3200MHZ",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002924,
-    "descricaoProduto": "MEMORIA KINGSTON DD4 8G 2666MMEMHZ SODIMM NOTEBOOK",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002924,
+    "descricao": "MEMORIA KINGSTON DD4 8G 2666MMEMHZ SODIMM NOTEBOOK",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029EX",
-    "descricaoProduto": "MEMORIA RAM SAMSUNG 64GB DDR4 2666V 4DRX4 LRDIMM ECC PN: M38",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029EX",
+    "descricao": "MEMORIA RAM SAMSUNG 64GB DDR4 2666V 4DRX4 LRDIMM ECC PN: M38",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029BQ",
-    "descricaoProduto": "CARTUCHO DE TONER COMPATIVEL SAMSUNG D203 15K - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029BQ",
+    "descricao": "CARTUCHO DE TONER COMPATIVEL SAMSUNG D203 15K - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109B5",
-    "descricaoProduto": "IMPRESSORA MULTIFUNCIONAL LASER PROXPRESS SL-M4080 SAMSUNG",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109B5",
+    "descricao": "IMPRESSORA MULTIFUNCIONAL LASER PROXPRESS SL-M4080 SAMSUNG",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029AB",
-    "descricaoProduto": "MEMORIA 16GB DDR4 SMART 2666V-REV 1",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029AB",
+    "descricao": "MEMORIA 16GB DDR4 SMART 2666V-REV 1",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029BY",
-    "descricaoProduto": "MEMORIA KINGSTON 8GB DDR4 2666MHZ UDIMM",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029BY",
+    "descricao": "MEMORIA KINGSTON 8GB DDR4 2666MHZ UDIMM",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029EJ",
-    "descricaoProduto": "MEMORIA RAM 8GB 1 DDR4 2133MHZ",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029EJ",
+    "descricao": "MEMORIA RAM 8GB 1 DDR4 2133MHZ",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 810010022,
-    "descricaoProduto": "NOBREAK SMS NET STATION 600VA",
-    "contaOrcamentariaProd": 140007
+    "codigo": 810010022,
+    "descricao": "NOBREAK SMS NET STATION 600VA",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 810010201,
-    "descricaoProduto": "DESKTOP LENOVO V520S I3 7100 8G 500G W10P 10NN00 1FBP",
-    "contaOrcamentariaProd": 140007
+    "codigo": 810010201,
+    "descricao": "DESKTOP LENOVO V520S I3 7100 8G 500G W10P 10NN00 1FBP",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 810010315,
-    "descricaoProduto": "MONITOR E2003B LENOVO",
-    "contaOrcamentariaProd": 140007
+    "codigo": 810010315,
+    "descricao": "MONITOR E2003B LENOVO",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "81001099U",
-    "descricaoProduto": "RACK 4U PAREDE",
-    "contaOrcamentariaProd": 140007
+    "codigo": "81001099U",
+    "descricao": "RACK 4U PAREDE",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "799998C5C",
-    "descricaoProduto": "SSD XPG SX6000 LITE 256GB",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998C5C",
+    "descricao": "SSD XPG SX6000 LITE 256GB",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029G6",
-    "descricaoProduto": "TONER HP CF410X BLACK BYQUALY",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029G6",
+    "descricao": "TONER HP CF410X BLACK BYQUALY",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029G7",
-    "descricaoProduto": "TONER HP CF413X MAGENTA BYQUALY",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029G7",
+    "descricao": "TONER HP CF413X MAGENTA BYQUALY",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029F1",
-    "descricaoProduto": "MEMORIA RAM KINGSTON 8GB DDR4 NOTEBOOK KVR24S17S8/8 2400MHZ",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029F1",
+    "descricao": "MEMORIA RAM KINGSTON 8GB DDR4 NOTEBOOK KVR24S17S8/8 2400MHZ",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002994,
-    "descricaoProduto": "MEMORIA DESKTOP 8GB - DDR4",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002994,
+    "descricao": "MEMORIA DESKTOP 8GB - DDR4",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029EB",
-    "descricaoProduto": "PLACA DE GERENCIAMENTO DE REDE P/ NOBREAK EASY AP9544",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029EB",
+    "descricao": "PLACA DE GERENCIAMENTO DE REDE P/ NOBREAK EASY AP9544",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109RH",
-    "descricaoProduto": "MAGIC KEYBOARD IPAD PRO 13POL PRETO",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109RH",
+    "descricao": "MAGIC KEYBOARD IPAD PRO 13POL PRETO",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 700001437,
-    "descricaoProduto": "DOCK P/ VIAGENS LENOVO USB-C DUAL DISPLAY C/ ADAPTADOR",
-    "contaOrcamentariaProd": 510006
+    "codigo": 700001437,
+    "descricao": "DOCK P/ VIAGENS LENOVO USB-C DUAL DISPLAY C/ ADAPTADOR",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998FR4",
-    "descricaoProduto": "ADAPTADOR UGREEN USB C MACHO PARA USB 3.0 FEMEA",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998FR4",
+    "descricao": "ADAPTADOR UGREEN USB C MACHO PARA USB 3.0 FEMEA",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109SX",
-    "descricaoProduto": "NOTEBOOK SLIM INTEL CORE 7 16GB WIN 11 PRO TOUCH SCREEN",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109SX",
+    "descricao": "NOTEBOOK SLIM INTEL CORE 7 16GB WIN 11 PRO TOUCH SCREEN",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 708002981,
-    "descricaoProduto": "KIT TECLADO E MOUSE S/ FIO LOGITECH MK220 - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002981,
+    "descricao": "KIT TECLADO E MOUSE S/ FIO LOGITECH MK220 - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029G1",
-    "descricaoProduto": "FITA LTO-8 ULTRIUM RW - DATA CARTIDGE 30TB - PCT C/ 5",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029G1",
+    "descricao": "FITA LTO-8 ULTRIUM RW - DATA CARTIDGE 30TB - PCT C/ 5",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999BEF",
-    "descricaoProduto": "CONECTOR RJ45 FEMEA CAT6 KEYSTONE JACK FURUKAWA GIGALAN BEJE",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999BEF",
+    "descricao": "CONECTOR RJ45 FEMEA CAT6 KEYSTONE JACK FURUKAWA GIGALAN BEJE",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109SW",
-    "descricaoProduto": "IMPRESSORA ZEBRA ZD230 C/ ETHERNET",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109SW",
+    "descricao": "IMPRESSORA ZEBRA ZD230 C/ ETHERNET",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109SY",
-    "descricaoProduto": "CATRACA CONTROL ID NUMERO DE SERIE 0M0200/00FC12",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109SY",
+    "descricao": "CATRACA CONTROL ID NUMERO DE SERIE 0M0200/00FC12",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029B1",
-    "descricaoProduto": "CARTUCHO DE TONER HP - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029B1",
+    "descricao": "CARTUCHO DE TONER HP - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 7080029,
-    "descricaoProduto": "PELICULA P/ TABLET GALAXY TAB A9+ PLUS TELA 11",
-    "contaOrcamentariaProd": 510006
+    "codigo": 7080029,
+    "descricao": "PELICULA P/ TABLET GALAXY TAB A9+ PLUS TELA 11",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 70800290,
-    "descricaoProduto": "CAPA P/ B TABLET A9+ 11.0 ROBUSTA SKUDO",
-    "contaOrcamentariaProd": 510006
+    "codigo": 70800290,
+    "descricao": "CAPA P/ B TABLET A9+ 11.0 ROBUSTA SKUDO",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708003020,
-    "descricaoProduto": "TELEFONE IP GRANDSTREAM - PRETO",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003020,
+    "descricao": "TELEFONE IP GRANDSTREAM - PRETO",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109R7",
-    "descricaoProduto": "TABLET SAMSUNG GALAXY TAB A9+ 64GB 4GB RAM",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109R7",
+    "descricao": "TABLET SAMSUNG GALAXY TAB A9+ 64GB 4GB RAM",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109SZ",
-    "descricaoProduto": "THINKPAD E14 CORE 7,1TB SSD 32GB RAM WIN PRO",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109SZ",
+    "descricao": "THINKPAD E14 CORE 7,1TB SSD 32GB RAM WIN PRO",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029FE",
-    "descricaoProduto": "MEMORIA RAM 8GB DDR4 2666MHZ DESKTOP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FE",
+    "descricao": "MEMORIA RAM 8GB DDR4 2666MHZ DESKTOP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029F8",
-    "descricaoProduto": "MONOFONE GRANDSTREAM GXP1628",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029F8",
+    "descricao": "MONOFONE GRANDSTREAM GXP1628",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029GC",
-    "descricaoProduto": "TRANSCEPTOR HP 506 UHF",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029GC",
+    "descricao": "TRANSCEPTOR HP 506 UHF",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029GD",
-    "descricaoProduto": "BASE CARREGADORA HP",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029GD",
+    "descricao": "BASE CARREGADORA HP",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029GE",
-    "descricaoProduto": "BATERIA HP 506",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029GE",
+    "descricao": "BATERIA HP 506",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029GF",
-    "descricaoProduto": "ANTENA HYTERA",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029GF",
+    "descricao": "ANTENA HYTERA",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029GG",
-    "descricaoProduto": "TRANSCEPTOR PD 786 UHF",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029GG",
+    "descricao": "TRANSCEPTOR PD 786 UHF",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029GH",
-    "descricaoProduto": "REPETIDORA HR1066 UHF",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029GH",
+    "descricao": "REPETIDORA HR1066 UHF",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029GI",
-    "descricaoProduto": "FONTE ALIMENTACAO HYTERA",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029GI",
+    "descricao": "FONTE ALIMENTACAO HYTERA",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029GJ",
-    "descricaoProduto": "CLIP HYTERA",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029GJ",
+    "descricao": "CLIP HYTERA",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708003025,
-    "descricaoProduto": "PELICULA P/TABLET SAMSUNG GALAXY TAB A9",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003025,
+    "descricao": "PELICULA P/TABLET SAMSUNG GALAXY TAB A9",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998C6I",
-    "descricaoProduto": "CORDAO ESPIRAL INTELBRAS P/ TIS E TELEFONES",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998C6I",
+    "descricao": "CORDAO ESPIRAL INTELBRAS P/ TIS E TELEFONES",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 810010121,
-    "descricaoProduto": "MONITOR 21POL",
-    "contaOrcamentariaProd": 140007
+    "codigo": 810010121,
+    "descricao": "MONITOR 21POL",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109A0",
-    "descricaoProduto": "DESKTOP LENOVO V530S 07LCB INTEL I5 8400 8G 500G WIND 10 PRO",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109A0",
+    "descricao": "DESKTOP LENOVO V530S 07LCB INTEL I5 8400 8G 500G WIND 10 PRO",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "702007B3T",
-    "descricaoProduto": "CONECTOR RJ45 MACHO CAT6 FURUKAWA 50X SOHOPLUS",
-    "contaOrcamentariaProd": 510006
+    "codigo": "702007B3T",
+    "descricao": "CONECTOR RJ45 MACHO CAT6 FURUKAWA 50X SOHOPLUS",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 70800290000,
-    "descricaoProduto": "FONTE DE ALIMENTACAO 12V 3A INTELBRAS",
-    "contaOrcamentariaProd": 510006
+    "codigo": 70800290000,
+    "descricao": "FONTE DE ALIMENTACAO 12V 3A INTELBRAS",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 799998915,
-    "descricaoProduto": "CALHA DE 08 TOMADAS PADRAO 19 PRETA 10A",
-    "contaOrcamentariaProd": 510006
+    "codigo": 799998915,
+    "descricao": "CALHA DE 08 TOMADAS PADRAO 19 PRETA 10A",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999EWC",
-    "descricaoProduto": "CAIXA DE CABO DE REDE CAT 6 SOHOPLUS 305M",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999EWC",
+    "descricao": "CAIXA DE CABO DE REDE CAT 6 SOHOPLUS 305M",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7999999WR",
-    "descricaoProduto": "CONECTOR KEYSTONE CAT6 FURUKAWA GIGALAN",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7999999WR",
+    "descricao": "CONECTOR KEYSTONE CAT6 FURUKAWA GIGALAN",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109AC",
-    "descricaoProduto": "CHASSI CONVERSOR DE MIDIA PLANET 15 SLOT AC MC-1500 - IMPORT",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109AC",
+    "descricao": "CHASSI CONVERSOR DE MIDIA PLANET 15 SLOT AC MC-1500 - IMPORT",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109HT",
-    "descricaoProduto": "LEITOR FACIAL HIKVISION DS-K1T342MWX",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109HT",
+    "descricao": "LEITOR FACIAL HIKVISION DS-K1T342MWX",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 810030051,
-    "descricaoProduto": "CAMERA SPEED DOME DS-2DE7A432IW-AEB+ZJ - SST",
-    "contaOrcamentariaProd": 140007
+    "codigo": 810030051,
+    "descricao": "CAMERA SPEED DOME DS-2DE7A432IW-AEB+ZJ - SST",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029B3",
-    "descricaoProduto": "PLACA DE ALIMENTACAO DA FUSAO - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029B3",
+    "descricao": "PLACA DE ALIMENTACAO DA FUSAO - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029B4",
-    "descricaoProduto": "FONTE DE ALIMENTACAO CHAVEADA 110 - 127V - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029B4",
+    "descricao": "FONTE DE ALIMENTACAO CHAVEADA 110 - 127V - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029G5",
-    "descricaoProduto": "FONTE INJETORA POE+ + 60W 48V GIGABIT UBIQUITI",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029G5",
+    "descricao": "FONTE INJETORA POE+ + 60W 48V GIGABIT UBIQUITI",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998C3N",
-    "descricaoProduto": "LEITOR DE CODIGO DE BARRAS ELGIN EL250 2D C/ PEDESTAL",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998C3N",
+    "descricao": "LEITOR DE CODIGO DE BARRAS ELGIN EL250 2D C/ PEDESTAL",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029G8",
-    "descricaoProduto": "PROCESSADOR INTEL XEON GOLD 6230 20 NUCLEOS 2.10GHZ",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029G8",
+    "descricao": "PROCESSADOR INTEL XEON GOLD 6230 20 NUCLEOS 2.10GHZ",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109R8",
-    "descricaoProduto": "UBIQUITI UNIFI - U7-PRO-MAX",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109R8",
+    "descricao": "UBIQUITI UNIFI - U7-PRO-MAX",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 708002968,
-    "descricaoProduto": "CARTUCHO HP W9008MC TONER BLACK 23000 PGS - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002968,
+    "descricao": "CARTUCHO HP W9008MC TONER BLACK 23000 PGS - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708001398,
-    "descricaoProduto": "RACK DE REDE TRIUNFO FLEX 12US 550MM",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708001398,
+    "descricao": "RACK DE REDE TRIUNFO FLEX 12US 550MM",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002866,
-    "descricaoProduto": "CARTUCHO HP 730 MATTE BLACK MK 300 ML P2V71A",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002866,
+    "descricao": "CARTUCHO HP 730 MATTE BLACK MK 300 ML P2V71A",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029EK",
-    "descricaoProduto": "PATCH CORD 1,5MT CAT6 FURUKAWA GIGALAN",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029EK",
+    "descricao": "PATCH CORD 1,5MT CAT6 FURUKAWA GIGALAN",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 702003414,
-    "descricaoProduto": "BATERIA SELADA 7AH/12V P/ NO-BREAK",
-    "contaOrcamentariaProd": 510006
+    "codigo": 702003414,
+    "descricao": "BATERIA SELADA 7AH/12V P/ NO-BREAK",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029AL",
-    "descricaoProduto": "HEADSET C/ MICROFONE H390 LOGITECH",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029AL",
+    "descricao": "HEADSET C/ MICROFONE H390 LOGITECH",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708002900000,
-    "descricaoProduto": "KIT TECLADO E MOUSE C/ FIO USB LOGITECH MK120",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002900000,
+    "descricao": "KIT TECLADO E MOUSE C/ FIO USB LOGITECH MK120",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029G3",
-    "descricaoProduto": "CARTUCHO MK HP 727 PRETO FOSCO",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029G3",
+    "descricao": "CARTUCHO MK HP 727 PRETO FOSCO",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029G4",
-    "descricaoProduto": "SSD SANDISK EXTREME PORTABLE 4TB USB-C 3.2",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029G4",
+    "descricao": "SSD SANDISK EXTREME PORTABLE 4TB USB-C 3.2",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029G9",
-    "descricaoProduto": "FONE DE OUVIDO XIAOMI BUDS 5 PRO",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029G9",
+    "descricao": "FONE DE OUVIDO XIAOMI BUDS 5 PRO",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708003035,
-    "descricaoProduto": "PELICULA NANOSHILD P/ MOTOROLA G75",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003035,
+    "descricao": "PELICULA NANOSHILD P/ MOTOROLA G75",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708003036,
-    "descricaoProduto": "CAPA SKUDO P/ MOTOROLA G75",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003036,
+    "descricao": "CAPA SKUDO P/ MOTOROLA G75",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109R3",
-    "descricaoProduto": "CELULAR SMARTPHONE SAMSUNG GALAXY A55 256GB 5G",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109R3",
+    "descricao": "CELULAR SMARTPHONE SAMSUNG GALAXY A55 256GB 5G",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109R4",
-    "descricaoProduto": "CELULAR SMARTPHONE MOTOROLA G55 XT2435 - 1 256GB",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109R4",
+    "descricao": "CELULAR SMARTPHONE MOTOROLA G55 XT2435 - 1 256GB",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109T3",
-    "descricaoProduto": "NOBREAK BIVOLT SPW2200 2200VA ENGETRON",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109T3",
+    "descricao": "NOBREAK BIVOLT SPW2200 2200VA ENGETRON",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 708002830,
-    "descricaoProduto": "SUPORTE P/ NOTEBOOK UP TABLE",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002830,
+    "descricao": "SUPORTE P/ NOTEBOOK UP TABLE",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998E5R",
-    "descricaoProduto": "CAPA SKUDO STRAP GALAXY TAB A9 ROBUSTA",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998E5R",
+    "descricao": "CAPA SKUDO STRAP GALAXY TAB A9 ROBUSTA",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 799998982,
-    "descricaoProduto": "VELCRO SLIM NEW AZUL C 3MTS",
-    "contaOrcamentariaProd": 510006
+    "codigo": 799998982,
+    "descricao": "VELCRO SLIM NEW AZUL C 3MTS",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "890010AX1",
-    "descricaoProduto": "NOBREAK APC RACK EASY UPS 2000VA 230V C/ TRILHO SRV2KRIRK-BR",
-    "contaOrcamentariaProd": 140007
+    "codigo": "890010AX1",
+    "descricao": "NOBREAK APC RACK EASY UPS 2000VA 230V C/ TRILHO SRV2KRIRK-BR",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109T4",
-    "descricaoProduto": "THINKPAD T14 G6 ULTRA 7, 32GB RAM, 1TB SSD",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109T4",
+    "descricao": "THINKPAD T14 G6 ULTRA 7, 32GB RAM, 1TB SSD",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029FX",
-    "descricaoProduto": "SSD NVME 250GB GEN3",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FX",
+    "descricao": "SSD NVME 250GB GEN3",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 7080029000000,
-    "descricaoProduto": "CAPA SKUDO P/ SAMSUNG A56",
-    "contaOrcamentariaProd": 510006
+    "codigo": 7080029000000,
+    "descricao": "CAPA SKUDO P/ SAMSUNG A56",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 70800290000000,
-    "descricaoProduto": "PELICULA NANOSHILD P/ SAMSUNG A56",
-    "contaOrcamentariaProd": 510006
+    "codigo": 70800290000000,
+    "descricao": "PELICULA NANOSHILD P/ SAMSUNG A56",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109GW",
-    "descricaoProduto": "THINKPAD E14 GEN 4 INTEL CORE I7-1255U",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109GW",
+    "descricao": "THINKPAD E14 GEN 4 INTEL CORE I7-1255U",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109HL",
-    "descricaoProduto": "NOBREAK BIVOLT VOLT 700VA ENGETRON",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109HL",
+    "descricao": "NOBREAK BIVOLT VOLT 700VA ENGETRON",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109SV",
-    "descricaoProduto": "MONITOR THINKVISION T24I-30 23,8 POL 1920X1080 FHD",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109SV",
+    "descricao": "MONITOR THINKVISION T24I-30 23,8 POL 1920X1080 FHD",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 800999743,
-    "descricaoProduto": "THINKPAD P16V ULTRA 7 16GB 512GB SSD WIN 11 PRO 16POL WUXGA",
-    "contaOrcamentariaProd": 140007
+    "codigo": 800999743,
+    "descricao": "THINKPAD P16V ULTRA 7 16GB 512GB SSD WIN 11 PRO 16POL WUXGA",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029FK",
-    "descricaoProduto": "MEMORIA RAM 16GB DDR4 2666MHZ NOTEBOOK",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FK",
+    "descricao": "MEMORIA RAM 16GB DDR4 2666MHZ NOTEBOOK",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FM",
-    "descricaoProduto": "MEMORIA RAM 16GB DDR4 3200MHZ NOTEBOOK",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FM",
+    "descricao": "MEMORIA RAM 16GB DDR4 3200MHZ NOTEBOOK",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029F9",
-    "descricaoProduto": "MEMORIA RAM 8GB DDR4 2400MHZ NOTEBOOK",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029F9",
+    "descricao": "MEMORIA RAM 8GB DDR4 2400MHZ NOTEBOOK",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029GK",
-    "descricaoProduto": "CAPA SKUDO P/ MOTOROLA G86",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029GK",
+    "descricao": "CAPA SKUDO P/ MOTOROLA G86",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029GL",
-    "descricaoProduto": "PELICULA NANOSHILD P/ MOTOROLA G86",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029GL",
+    "descricao": "PELICULA NANOSHILD P/ MOTOROLA G86",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 708003037,
-    "descricaoProduto": "CAPA SKUDO P/ MOTOROLA G56",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003037,
+    "descricao": "CAPA SKUDO P/ MOTOROLA G56",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 800010448,
-    "descricaoProduto": "TECLADO USB PRETO - IMPORT",
-    "contaOrcamentariaProd": 140007
+    "codigo": 800010448,
+    "descricao": "TECLADO USB PRETO - IMPORT",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 810010138,
-    "descricaoProduto": "MOUSE OPTICO USB PRETO",
-    "contaOrcamentariaProd": 140007
+    "codigo": 810010138,
+    "descricao": "MOUSE OPTICO USB PRETO",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109GV",
-    "descricaoProduto": "THINKCENTRE NEO 50S GEN 4 INTEL CORE I5-13500",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109GV",
+    "descricao": "THINKCENTRE NEO 50S GEN 4 INTEL CORE I5-13500",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 708002050,
-    "descricaoProduto": "PATCH CORD 1,5MT CAT6 AZUL",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708002050,
+    "descricao": "PATCH CORD 1,5MT CAT6 AZUL",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029F6",
-    "descricaoProduto": "KIT TECLADO E MOUSE SEM FIO LENOVO",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029F6",
+    "descricao": "KIT TECLADO E MOUSE SEM FIO LENOVO",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029G0",
-    "descricaoProduto": "CAIXA DE CABO DE REDE CAT 6 FURUKAWA GIGALAN 305M",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029G0",
+    "descricao": "CAIXA DE CABO DE REDE CAT 6 FURUKAWA GIGALAN 305M",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999BEA",
-    "descricaoProduto": "CAIXA DE CABO DE REDE CAT 6 AZUL GIGALAN 305 MT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999BEA",
+    "descricao": "CAIXA DE CABO DE REDE CAT 6 AZUL GIGALAN 305 MT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109SB",
-    "descricaoProduto": "MONITOR 21 POL LENOVO C/ AJUSTE DE ALTURA",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109SB",
+    "descricao": "MONITOR 21 POL LENOVO C/ AJUSTE DE ALTURA",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109SC",
-    "descricaoProduto": "MONITOR 27POL C/ AJUSTE DE ALTURA",
-    "contaOrcamentariaProd": 510006
+    "codigo": "8100109SC",
+    "descricao": "MONITOR 27POL C/ AJUSTE DE ALTURA",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109SU",
-    "descricaoProduto": "THINKPAD E14 CORE 5,256GB SSD 16GB RAM WIN PRO",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109SU",
+    "descricao": "THINKPAD E14 CORE 5,256GB SSD 16GB RAM WIN PRO",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029BN",
-    "descricaoProduto": "TONER DA IMPRESSORA BROTHER DCP-L2540DW",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029BN",
+    "descricao": "TONER DA IMPRESSORA BROTHER DCP-L2540DW",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109AK",
-    "descricaoProduto": "IMPRESSORA BROTHER LASER MULTI DCP-L2540DW",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109AK",
+    "descricao": "IMPRESSORA BROTHER LASER MULTI DCP-L2540DW",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029GM",
-    "descricaoProduto": "PLACA DE REDE GIGABIT 100/1000/2500 2.5GBPS PCIE X1 REALTEK",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029GM",
+    "descricao": "PLACA DE REDE GIGABIT 100/1000/2500 2.5GBPS PCIE X1 REALTEK",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029GN",
-    "descricaoProduto": "ESTACAO BASE YEALINK W70B",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029GN",
+    "descricao": "ESTACAO BASE YEALINK W70B",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 800999744,
-    "descricaoProduto": "THINKCENTRE NEO 30S GEN5 INTEL CORE I5 16GB RAM 512GB SSD",
-    "contaOrcamentariaProd": 140007
+    "codigo": 800999744,
+    "descricao": "THINKCENTRE NEO 30S GEN5 INTEL CORE I5 16GB RAM 512GB SSD",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 708003038,
-    "descricaoProduto": "PELICULA NANOSHILD P/ MOTOROLA G56",
-    "contaOrcamentariaProd": 510006
+    "codigo": 708003038,
+    "descricao": "PELICULA NANOSHILD P/ MOTOROLA G56",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109HU",
-    "descricaoProduto": "SWITCH HPE NETWORKING INSTANT ON 1930 48G CLASS4 POE JL686B",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109HU",
+    "descricao": "SWITCH HPE NETWORKING INSTANT ON 1930 48G CLASS4 POE JL686B",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109S0",
-    "descricaoProduto": "CELULAR SMARTPHONE SAMSUNG GALAXY A56 256GB 5G",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109S0",
+    "descricao": "CELULAR SMARTPHONE SAMSUNG GALAXY A56 256GB 5G",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109T1",
-    "descricaoProduto": "CELULAR SMARTPHONE MOTOROLA G86",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109T1",
+    "descricao": "CELULAR SMARTPHONE MOTOROLA G86",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029GA",
-    "descricaoProduto": "MOCHILA EM NYLON DE ALTA RESISTENCIA GT5001 1007669 GETROTEC",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029GA",
+    "descricao": "MOCHILA EM NYLON DE ALTA RESISTENCIA GT5001 1007669 GETROTEC",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029GB",
-    "descricaoProduto": "MOCHILA EM NYLON DE ALTA RESISTENCIA GT7001 1007673 GETROTEC",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029GB",
+    "descricao": "MOCHILA EM NYLON DE ALTA RESISTENCIA GT7001 1007673 GETROTEC",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998CJC",
-    "descricaoProduto": "LEITOR DE CODIGO DE BARRAS EYOYO EY-015 USB 2D PRETO",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998CJC",
+    "descricao": "LEITOR DE CODIGO DE BARRAS EYOYO EY-015 USB 2D PRETO",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029EA",
-    "descricaoProduto": "CABO VGA 1,5MT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029EA",
+    "descricao": "CABO VGA 1,5MT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "81001099G",
-    "descricaoProduto": "PATCH PANEL 24 PORTAS CAT6 FURUKAWA GIGALAN",
-    "contaOrcamentariaProd": 140007
+    "codigo": "81001099G",
+    "descricao": "PATCH PANEL 24 PORTAS CAT6 FURUKAWA GIGALAN",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "7080029AG",
-    "descricaoProduto": "CRUCIAL SSD 480GB BX500 2.5 POLEGADAS 6GBS - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029AG",
+    "descricao": "CRUCIAL SSD 480GB BX500 2.5 POLEGADAS 6GBS - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029FW",
-    "descricaoProduto": "SSD SATA3 240GB",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029FW",
+    "descricao": "SSD SATA3 240GB",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": 700999945,
-    "descricaoProduto": "KIT DE ADAPTADOR OPT 2F MM LC-PC C/ 03 PCS",
-    "contaOrcamentariaProd": 510006
+    "codigo": 700999945,
+    "descricao": "KIT DE ADAPTADOR OPT 2F MM LC-PC C/ 03 PCS",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029A7",
-    "descricaoProduto": "HPE 4TB SATA 7.2K LFF SC DS HDD - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029A7",
+    "descricao": "HPE 4TB SATA 7.2K LFF SC DS HDD - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029A8",
-    "descricaoProduto": "HP EXT 2 0M MINISAS HD TO MINISAS CBL - IMPORT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029A8",
+    "descricao": "HP EXT 2 0M MINISAS HD TO MINISAS CBL - IMPORT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029BD",
-    "descricaoProduto": "CABO OPTICO UGREEN AUDIO DIGITAL TOSLINK SPDIF TV HOME 1,5M",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029BD",
+    "descricao": "CABO OPTICO UGREEN AUDIO DIGITAL TOSLINK SPDIF TV HOME 1,5M",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "7080029B9",
-    "descricaoProduto": "HD SEAGATE SAS 2.4TB 10K 256MB 12GBS 4KN/512E",
-    "contaOrcamentariaProd": 510006
+    "codigo": "7080029B9",
+    "descricao": "HD SEAGATE SAS 2.4TB 10K 256MB 12GBS 4KN/512E",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998CK6",
-    "descricaoProduto": "LEITOR DE CODIGO DE BARRAS ZEBRA DS3608-SR",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998CK6",
+    "descricao": "LEITOR DE CODIGO DE BARRAS ZEBRA DS3608-SR",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799998C5Z",
-    "descricaoProduto": "CABO ADAPTADOR HEADSET P/ FONE, 2P2 MACHO PARA 1 P2 FEMEA",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799998C5Z",
+    "descricao": "CABO ADAPTADOR HEADSET P/ FONE, 2P2 MACHO PARA 1 P2 FEMEA",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999BEC",
-    "descricaoProduto": "PATCH PANEL DESCARREGADO ORIGINAL 24 C/ GUIA FURUKAWA",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999BEC",
+    "descricao": "PATCH PANEL DESCARREGADO ORIGINAL 24 C/ GUIA FURUKAWA",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999BED",
-    "descricaoProduto": "GUIA ORGANIZADOR DE CABOS FURUKAWA ALTA DENSIDADE ORIGINAL",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999BED",
+    "descricao": "GUIA ORGANIZADOR DE CABOS FURUKAWA ALTA DENSIDADE ORIGINAL",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999BEH",
-    "descricaoProduto": "REGUA P/ RACK 19 POL C/ 12 TOMADAS 20A E 10A CABO 5MT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999BEH",
+    "descricao": "REGUA P/ RACK 19 POL C/ 12 TOMADAS 20A E 10A CABO 5MT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999BEI",
-    "descricaoProduto": "FECHO DE CONTATO PARA COSTURA 25MM ROLO COM 10MT",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999BEI",
+    "descricao": "FECHO DE CONTATO PARA COSTURA 25MM ROLO COM 10MT",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999BEK",
-    "descricaoProduto": "TRILHO SERVIDOR DELL POWEREDGE R610",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999BEK",
+    "descricao": "TRILHO SERVIDOR DELL POWEREDGE R610",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999BE8",
-    "descricaoProduto": "RACK ABERTO TIPO TOP HD 44US X 300MM HD ALTA DENSIDADE",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999BE8",
+    "descricao": "RACK ABERTO TIPO TOP HD 44US X 300MM HD ALTA DENSIDADE",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "799999BE9",
-    "descricaoProduto": "BANDEJA FIXA 600MM DUPLA FIXACAO PRETA PARA RACK 19",
-    "contaOrcamentariaProd": 510006
+    "codigo": "799999BE9",
+    "descricao": "BANDEJA FIXA 600MM DUPLA FIXACAO PRETA PARA RACK 19",
+    "contaorcamentaria": 510006
   },
   {
-    "codigoProduto": "8100109CV",
-    "descricaoProduto": "ARUBA 12 PORT 10 100 1000BASE T POE",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109CV",
+    "descricao": "ARUBA 12 PORT 10 100 1000BASE T POE",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109C4",
-    "descricaoProduto": "NOBREAK SMS 600VA STATION II BIVOLT UST600BI",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109C4",
+    "descricao": "NOBREAK SMS 600VA STATION II BIVOLT UST600BI",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109DB",
-    "descricaoProduto": "SWITCH ARUBA 8 PORTAS 10/100/1000 INTANTEON GERENCIAVEL",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109DB",
+    "descricao": "SWITCH ARUBA 8 PORTAS 10/100/1000 INTANTEON GERENCIAVEL",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109D1",
-    "descricaoProduto": "SWITCH HPE ARUBA 16 PORTAS 1420-16GB GIGABIT - JH016A",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109D1",
+    "descricao": "SWITCH HPE ARUBA 16 PORTAS 1420-16GB GIGABIT - JH016A",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109EA",
-    "descricaoProduto": "TRANSCEPTOR OPTICO PADRAO SFP28 P/ SFP28, 25GBE",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109EA",
+    "descricao": "TRANSCEPTOR OPTICO PADRAO SFP28 P/ SFP28, 25GBE",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109ED",
-    "descricaoProduto": "TRANSCEPTOR DELL NETWORKING QSFP DE CONEXAO DUPLA 40GBE",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109ED",
+    "descricao": "TRANSCEPTOR DELL NETWORKING QSFP DE CONEXAO DUPLA 40GBE",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "8100109EV",
-    "descricaoProduto": "CHAVEADOR DIVISOR HUB MULTIPLICADOR SINAL HDMI TV 3X1 UHD 4K",
-    "contaOrcamentariaProd": 140007
+    "codigo": "8100109EV",
+    "descricao": "CHAVEADOR DIVISOR HUB MULTIPLICADOR SINAL HDMI TV 3X1 UHD 4K",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 8100109000000,
-    "descricaoProduto": "MODULO DE ARMAZENAMENTO DE DADOS NAO VOLATIL SSDR",
-    "contaOrcamentariaProd": 140007
+    "codigo": 8100109000000,
+    "descricao": "MODULO DE ARMAZENAMENTO DE DADOS NAO VOLATIL SSDR",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 810010900000000,
-    "descricaoProduto": "MODULO DE ARMAZENAMENTO A BASE DE SEMICONDUTORES SSDR",
-    "contaOrcamentariaProd": 140007
+    "codigo": 810010900000000,
+    "descricao": "MODULO DE ARMAZENAMENTO A BASE DE SEMICONDUTORES SSDR",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": 8100109000000000,
-    "descricaoProduto": "DELL MEMORY UPGRADE - 32GB - 2RX8 DDR4 RDIMM 3200MHZ 16GB",
-    "contaOrcamentariaProd": 140007
+    "codigo": 8100109000000000,
+    "descricao": "DELL MEMORY UPGRADE - 32GB - 2RX8 DDR4 RDIMM 3200MHZ 16GB",
+    "contaorcamentaria": 140007
   },
   {
-    "codigoProduto": "890010A4D",
-    "descricaoProduto": "RACK 19POL P/ PAREDE 12UX470MM PORTA FRONTAL",
-    "contaOrcamentariaProd": 140007
+    "codigo": "890010A4D",
+    "descricao": "RACK 19POL P/ PAREDE 12UX470MM PORTA FRONTAL",
+    "contaorcamentaria": 140007
   }
 ]
