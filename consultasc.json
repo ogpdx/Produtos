@@ -6,7 +6,8 @@
         "contaorcamentaria": "123456",
         "quantidade": "123456",
         "centroCustoDois": "123456",
-        "observacao": "Observação do produto"
+        "observacao": "Observação do produto",
+        "status": "Aguardando aprovação"
     },
     {
         "numero_sc": "213456",
@@ -15,7 +16,8 @@
         "contaorcamentaria": "213456",
         "quantidade": "213456",
         "centroCustoDois": "213456",
-        "observacao": "Observação do produto"
+        "observacao": "Observação do produto",
+        "status": "Aguardando aprovação"
     },
     {
         "numero_sc": "313456",
@@ -24,7 +26,8 @@
         "contaorcamentaria": "313456",
         "quantidade": "313456",
         "centroCustoDois": "313456",
-        "observacao": "Observação do produto"
+        "observacao": "Observação do produto",
+        "status": "Aguardando aprovação"
     },
     {
         "numero_sc": "413456",
@@ -33,6 +36,7 @@
         "contaorcamentaria": "413456",
         "quantidade": "413456",
         "centroCustoDois": "413456",
-        "observacao": "Observação do produto"
+        "observacao": "Observação do produto",
+        "status": "Aguardando aprovação"
     }
 ]
