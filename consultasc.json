@@ -1,5 +1,6 @@
 [
     {
+        "pedidocompra": "123456",
         "numero_sc": "123456",
         "codigo": "123456",
         "descricao": "Descrição do produto",
@@ -10,6 +11,7 @@
         "status": "Aguardando aprovação"
     },
     {
+        "pedidocompra": "213456",
         "numero_sc": "213456",
         "codigo": "213456",
         "descricao": "Descrição do produto",
@@ -20,6 +22,7 @@
         "status": "Aguardando aprovação"
     },
     {
+        "pedidocompra": "313456",
         "numero_sc": "313456",
         "codigo": "313456",
         "descricao": "Descrição do produto",
@@ -30,6 +33,7 @@
         "status": "Aguardando aprovação"
     },
     {
+        "pedidocompra": "413456",
         "numero_sc": "413456",
         "codigo": "413456",
         "descricao": "Descrição do produto",
