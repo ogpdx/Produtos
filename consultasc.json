@@ -1,0 +1,38 @@
+[
+    {
+        "numero_sc": "123456",
+        "codigo": "123456",
+        "descricao": "Descrição do produto",
+        "contaorcamentaria": "123456",
+        "quantidade": "123456",
+        "centroCustoDois": "123456",
+        "observacao": "Observação do produto"
+    },
+    {
+        "numero_sc": "213456",
+        "codigo": "213456",
+        "descricao": "Descrição do produto",
+        "contaorcamentaria": "213456",
+        "quantidade": "213456",
+        "centroCustoDois": "213456",
+        "observacao": "Observação do produto"
+    },
+    {
+        "numero_sc": "313456",
+        "codigo": "313456",
+        "descricao": "Descrição do produto",
+        "contaorcamentaria": "313456",
+        "quantidade": "313456",
+        "centroCustoDois": "313456",
+        "observacao": "Observação do produto"
+    },
+    {
+        "numero_sc": "413456",
+        "codigo": "413456",
+        "descricao": "Descrição do produto",
+        "contaorcamentaria": "413456",
+        "quantidade": "413456",
+        "centroCustoDois": "413456",
+        "observacao": "Observação do produto"
+    }
+]
