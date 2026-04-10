@@ -1,0 +1,5846 @@
+[
+  {
+    "CTT_CUSTO": 510000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ALMOXARIFADO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 520000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ARMAZEM",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 540000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "PLANEJAMENTO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 560000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "DISTRIBUICAO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 570000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ADMINISTRATIVO LOGISTICA",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 540000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "PLANEJAMENTO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 560000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "DISTRIBUICAO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 570000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ADMINISTRATIVO LOGISTICA",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 510000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ALMOXARIFADO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 520000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ARMAZEM",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 510000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ALMOXARIFADO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 520000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ARMAZEM",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 540000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "PLANEJAMENTO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 560000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "DISTRIBUICAO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 520000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ARMAZEM",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 510000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ALMOXARIFADO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 570000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ADMINISTRATIVO LOGISTICA",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 570000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ADMINISTRATIVO LOGISTICA",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 560000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "DISTRIBUICAO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 540000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "PLANEJAMENTO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 575000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "LOGISTICA AS",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 570000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ADMINISTRATIVO LOGISTICA",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 575000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "LOGISTICA AS",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 575000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "LOGISTICA AS",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 575000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "LOGISTICA AS",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 575000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "LOGISTICA AS",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 575000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "LOGISTICA AS",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 510000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ALMOXARIFADO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 520000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ARMAZEM",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 540000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "PLANEJAMENTO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 560000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "DISTRIBUICAO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 570000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ADMINISTRATIVO LOGISTICA",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 510000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ALMOXARIFADO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 520000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "ARMAZEM",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 540000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "PLANEJAMENTO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 560000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "DISTRIBUICAO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 575000,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "LOGISTICA AS",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450100,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "LINHA - DOPAMINA",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450200,
+    "CTT_XUSER": "000062",
+    "CTT_DESC01": "LINHA -  AGUA TONICA / ISOTONICO",
+    "USR_EMAIL": "rmsa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "ADMINISTRATIVO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 382000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "SEGURANCA PATRIMONIAL",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "ADMINISTRATIVO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 382000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "SEGURANCA PATRIMONIAL",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "ADMINISTRATIVO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 382000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "SEGURANCA PATRIMONIAL",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 382000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "SEGURANCA PATRIMONIAL",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "ADMINISTRATIVO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 382000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "SEGURANCA PATRIMONIAL",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "ADMINISTRATIVO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384040,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "LIMPEZA E CONSERVACAO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384040,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "LIMPEZA E CONSERVACAO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384040,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "LIMPEZA E CONSERVACAO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384040,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "LIMPEZA E CONSERVACAO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384040,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "LIMPEZA E CONSERVACAO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384040,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "LIMPEZA E CONSERVACAO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384050,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREAS VERDES E ARRUAMENTOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384050,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREAS VERDES E ARRUAMENTOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384050,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREAS VERDES E ARRUAMENTOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384050,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREAS VERDES E ARRUAMENTOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384050,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREAS VERDES E ARRUAMENTOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384050,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREAS VERDES E ARRUAMENTOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384060,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "FROTA FACILITIES",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384060,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "FROTA FACILITIES",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384060,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "FROTA FACILITIES",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384060,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "FROTA FACILITIES",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384060,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "FROTA FACILITIES",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384060,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "FROTA FACILITIES",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384070,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 01",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384070,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 01",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384070,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 01",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384070,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 01",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384070,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 01",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384070,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 01",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384080,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "CONDOMINIOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384080,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "CONDOMINIOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384080,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "CONDOMINIOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384080,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "CONDOMINIOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384080,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "CONDOMINIOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384080,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "CONDOMINIOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 382000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "SEGURANCA PATRIMONIAL",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 382000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "SEGURANCA PATRIMONIAL",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "ADMINISTRATIVO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "ADMINISTRATIVO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384040,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "LIMPEZA E CONSERVACAO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384050,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREAS VERDES E ARRUAMENTOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384060,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "FROTA FACILITIES",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384070,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 01",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384080,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "CONDOMINIOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 101100,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 03",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 101200,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 02",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 101200,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 02",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 101200,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 02",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 101200,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 02",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 101200,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 02",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 101200,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 02",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 101200,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 02",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384090,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREA VIVENCIA MOTORISTAS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384090,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREA VIVENCIA MOTORISTAS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384090,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREA VIVENCIA MOTORISTAS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384090,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREA VIVENCIA MOTORISTAS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384090,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREA VIVENCIA MOTORISTAS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384090,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREA VIVENCIA MOTORISTAS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384090,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREA VIVENCIA MOTORISTAS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384090,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREA VIVENCIA MOTORISTAS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384090,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREA VIVENCIA MOTORISTAS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 382000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "SEGURANCA PATRIMONIAL",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 101200,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 02",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310000,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "ADMINISTRATIVO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384040,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "LIMPEZA E CONSERVACAO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384050,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREAS VERDES E ARRUAMENTOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384060,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "FROTA FACILITIES",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384070,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 01",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384080,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "CONDOMINIOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 101200,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 02",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384040,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "LIMPEZA E CONSERVACAO",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384050,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "AREAS VERDES E ARRUAMENTOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384060,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "FROTA FACILITIES",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384070,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "RECEPÇÃO / SALAS DE REUNIÃO 01",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384080,
+    "CTT_XUSER": "001296",
+    "CTT_DESC01": "CONDOMINIOS",
+    "USR_EMAIL": "rmsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 210000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "ADMINISTRATIVO VENDAS",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 220000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "TRADE MARKETING",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 100200,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "ASSESSORIA VENDAS E MARKETING",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 210000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "ADMINISTRATIVO VENDAS",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 220000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "TRADE MARKETING",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 100200,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "ASSESSORIA VENDAS E MARKETING",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 210000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "ADMINISTRATIVO VENDAS",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 220000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "TRADE MARKETING",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 220000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "TRADE MARKETING",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 210000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "ADMINISTRATIVO VENDAS",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 100200,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "ASSESSORIA VENDAS E MARKETING",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 210000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "ADMINISTRATIVO VENDAS",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 220000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "TRADE MARKETING",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 210000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "ADMINISTRATIVO VENDAS",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 220000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "TRADE MARKETING",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 210100,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "CARRETA CHOPP",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 210000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "ADMINISTRATIVO VENDAS",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 220000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "TRADE MARKETING",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 210200,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "AS-AUTO SERVICO",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 210000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "ADMINISTRATIVO VENDAS",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 220000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "TRADE MARKETING",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 240000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "OPERACOES COMERCIAIS - EXTERIOR",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 240000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "OPERACOES COMERCIAIS - EXTERIOR",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 240000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "OPERACOES COMERCIAIS - EXTERIOR",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 240000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "OPERACOES COMERCIAIS - EXTERIOR",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 240000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "OPERACOES COMERCIAIS - EXTERIOR",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 240000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "OPERACOES COMERCIAIS - EXTERIOR",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 210000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "ADMINISTRATIVO VENDAS",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 220000,
+    "CTT_XUSER": "000013",
+    "CTT_DESC01": "TRADE MARKETING",
+    "USR_EMAIL": "roberto.paula@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440000,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "CONTROLE DE QUALIDADE",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 441000,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO FISICO-QUIMICO",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440030,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO MICROBIOLOGIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 441000,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO FISICO-QUIMICO",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440030,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO MICROBIOLOGIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 441000,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO FISICO-QUIMICO",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440030,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO MICROBIOLOGIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440030,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO MICROBIOLOGIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 441000,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO FISICO-QUIMICO",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 441000,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO FISICO-QUIMICO",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440030,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO MICROBIOLOGIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440030,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO MICROBIOLOGIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 441000,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO FISICO-QUIMICO",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440040,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO AGUA MINERAL",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 441000,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO FISICO-QUIMICO",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440060,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO XAROPARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440000,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "CONTROLE DE QUALIDADE",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440050,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO DESTILARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440030,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO MICROBIOLOGIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440050,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO DESTILARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440050,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO DESTILARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440050,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO DESTILARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440050,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO DESTILARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440050,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO DESTILARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440050,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO DESTILARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440050,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO DESTILARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440050,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO DESTILARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440060,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO XAROPARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440060,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO XAROPARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440060,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO XAROPARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440060,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO XAROPARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440060,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO XAROPARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440060,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO XAROPARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440060,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO XAROPARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440060,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO XAROPARIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440030,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO MICROBIOLOGIA",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 441000,
+    "CTT_XUSER": "001691",
+    "CTT_DESC01": "LABORATORIO FISICO-QUIMICO",
+    "USR_EMAIL": "bsantana@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 340000,
+    "CTT_XUSER": "000690",
+    "CTT_DESC01": "PAF / FATURAMENTO",
+    "USR_EMAIL": "abernardes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 340000,
+    "CTT_XUSER": "000690",
+    "CTT_DESC01": "PAF / FATURAMENTO",
+    "USR_EMAIL": "abernardes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 340000,
+    "CTT_XUSER": "000690",
+    "CTT_DESC01": "PAF / FATURAMENTO",
+    "USR_EMAIL": "abernardes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 340000,
+    "CTT_XUSER": "000690",
+    "CTT_DESC01": "PAF / FATURAMENTO",
+    "USR_EMAIL": "abernardes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 340000,
+    "CTT_XUSER": "000690",
+    "CTT_DESC01": "PAF / FATURAMENTO",
+    "USR_EMAIL": "abernardes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 320040,
+    "CTT_XUSER": "000690",
+    "CTT_DESC01": "FISCAL",
+    "USR_EMAIL": "abernardes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 320040,
+    "CTT_XUSER": "000690",
+    "CTT_DESC01": "FISCAL",
+    "USR_EMAIL": "abernardes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 340000,
+    "CTT_XUSER": "000690",
+    "CTT_DESC01": "PAF / FATURAMENTO",
+    "USR_EMAIL": "abernardes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 340000,
+    "CTT_XUSER": "000690",
+    "CTT_DESC01": "PAF / FATURAMENTO",
+    "USR_EMAIL": "abernardes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 320040,
+    "CTT_XUSER": "000690",
+    "CTT_DESC01": "FISCAL",
+    "USR_EMAIL": "abernardes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 340000,
+    "CTT_XUSER": "000690",
+    "CTT_DESC01": "PAF / FATURAMENTO",
+    "USR_EMAIL": "abernardes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 320040,
+    "CTT_XUSER": "000690",
+    "CTT_DESC01": "FISCAL",
+    "USR_EMAIL": "abernardes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 340000,
+    "CTT_XUSER": "000690",
+    "CTT_DESC01": "PAF / FATURAMENTO",
+    "USR_EMAIL": "abernardes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 320040,
+    "CTT_XUSER": "000690",
+    "CTT_DESC01": "FISCAL",
+    "USR_EMAIL": "abernardes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 320000,
+    "CTT_XUSER": "000556",
+    "CTT_DESC01": "CONTABILIDADE",
+    "USR_EMAIL": "acarvalho@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 320000,
+    "CTT_XUSER": "000556",
+    "CTT_DESC01": "CONTABILIDADE",
+    "USR_EMAIL": "acarvalho@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 320000,
+    "CTT_XUSER": "000556",
+    "CTT_DESC01": "CONTABILIDADE",
+    "USR_EMAIL": "acarvalho@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 320000,
+    "CTT_XUSER": "000556",
+    "CTT_DESC01": "CONTABILIDADE",
+    "USR_EMAIL": "acarvalho@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 320000,
+    "CTT_XUSER": "000556",
+    "CTT_DESC01": "CONTABILIDADE",
+    "USR_EMAIL": "acarvalho@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 320000,
+    "CTT_XUSER": "000556",
+    "CTT_DESC01": "CONTABILIDADE",
+    "USR_EMAIL": "acarvalho@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 320000,
+    "CTT_XUSER": "000556",
+    "CTT_DESC01": "CONTABILIDADE",
+    "USR_EMAIL": "acarvalho@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 320000,
+    "CTT_XUSER": "000556",
+    "CTT_DESC01": "CONTABILIDADE",
+    "USR_EMAIL": "acarvalho@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386100,
+    "CTT_XUSER": "002036",
+    "CTT_DESC01": "CEATEC",
+    "USR_EMAIL": "gagoncalves@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450010,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 3 - LATA CAP. 105 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450020,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 2 - LATA CAP. 70 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450030,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 1 - VIDRO CAP. 30 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450040,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 4 - LATA CAP. 128 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450060,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 5 - LONG NECK",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450010,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 3 - LATA CAP. 105 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450020,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 2 - LATA CAP. 70 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450040,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 4 - LATA CAP. 128 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450030,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 1 - VIDRO CAP. 30 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450060,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 5 - LONG NECK",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450030,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 1 - VIDRO CAP. 30 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450040,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 4 - LATA CAP. 128 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450010,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 3 - LATA CAP. 105 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450020,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 2 - LATA CAP. 70 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450060,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 5 - LONG NECK",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450040,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 4 - LATA CAP. 128 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450030,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 1 - VIDRO CAP. 30 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450060,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 5 - LONG NECK",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450030,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 1 - VIDRO CAP. 30 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450040,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 4 - LATA CAP. 128 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450010,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 3 - LATA CAP. 105 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450020,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 2 - LATA CAP. 70 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450060,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 5 - LONG NECK",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450010,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 3 - LATA CAP. 105 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450020,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 2 - LATA CAP. 70 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450030,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 1 - VIDRO CAP. 30 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450040,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 4 - LATA CAP. 128 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450060,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 5 - LONG NECK",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450010,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 3 - LATA CAP. 105 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450020,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 2 - LATA CAP. 70 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450030,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 1 - VIDRO CAP. 30 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450040,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 4 - LATA CAP. 128 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450010,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 3 - LATA CAP. 105 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450020,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 2 - LATA CAP. 70 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450060,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 5 - LONG NECK",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450030,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 1 - VIDRO CAP. 30 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450040,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 4 - LATA CAP. 128 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450060,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 5 - LONG NECK",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450010,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 3 - LATA CAP. 105 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450020,
+    "CTT_XUSER": "000288",
+    "CTT_DESC01": "LINHA 2 - LATA CAP. 70 MIL",
+    "USR_EMAIL": "jpereira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 540000,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "PLANEJAMENTO",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 560000,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "DISTRIBUICAO",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 510000,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "ALMOXARIFADO",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 520000,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "ARMAZEM",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 570000,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "ADMINISTRATIVO LOGISTICA",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450100,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "LINHA - DOPAMINA",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450200,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "LINHA -  AGUA TONICA / ISOTONICO",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450300,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "LINHA - ICE",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 100500,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "ASSESSORIA DE OPERACOES",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450700,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "LINHA - GIN",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450800,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "LINHA - AGUA",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 575000,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "LOGISTICA AS",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450400,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "LINHA - LICORES",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450600,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "LINHA - DOCE DE LEITE",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 100550,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "LOJA IMPERIO",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 570000,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "ADMINISTRATIVO LOGISTICA",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450100,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "LINHA - DOPAMINA",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450200,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "LINHA -  AGUA TONICA / ISOTONICO",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 510000,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "ALMOXARIFADO",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 520000,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "ARMAZEM",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 540000,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "PLANEJAMENTO",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 560000,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "DISTRIBUICAO",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 572000,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "HUB - LOGISTICA",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 575000,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "LOGISTICA AS",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 573000,
+    "CTT_XUSER": "000636",
+    "CTT_DESC01": "CONSULTORIA - LOGISTICA",
+    "USR_EMAIL": "jsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 383000,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MEIO AMBIENTE - ADM",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MEIO AMBIENTE",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MEIO AMBIENTE",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MEIO AMBIENTE",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MEIO AMBIENTE",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MEIO AMBIENTE",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 388010,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "RECURSOS HIDRICOS - ADM",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 383000,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MEIO AMBIENTE - ADM",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MEIO AMBIENTE",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MEIO AMBIENTE",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MARCAS E PATENTES",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MARCAS E PATENTES",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MARCAS E PATENTES",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MARCAS E PATENTES",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MARCAS E PATENTES",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MARCAS E PATENTES",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MARCAS E PATENTES",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MARCAS E PATENTES",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MARCAS E PATENTES",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400020,
+    "CTT_XUSER": "000290",
+    "CTT_DESC01": "MEIO AMBIENTE",
+    "USR_EMAIL": "lmartins@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 350000,
+    "CTT_XUSER": "000151",
+    "CTT_DESC01": "JURIDICO",
+    "USR_EMAIL": "crippel@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 350000,
+    "CTT_XUSER": "000151",
+    "CTT_DESC01": "JURIDICO",
+    "USR_EMAIL": "crippel@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 350000,
+    "CTT_XUSER": "000151",
+    "CTT_DESC01": "JURIDICO",
+    "USR_EMAIL": "crippel@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 350000,
+    "CTT_XUSER": "000151",
+    "CTT_DESC01": "JURIDICO",
+    "USR_EMAIL": "crippel@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 350000,
+    "CTT_XUSER": "000151",
+    "CTT_DESC01": "JURIDICO",
+    "USR_EMAIL": "crippel@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 350000,
+    "CTT_XUSER": "000151",
+    "CTT_DESC01": "JURIDICO",
+    "USR_EMAIL": "crippel@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 350000,
+    "CTT_XUSER": "000151",
+    "CTT_DESC01": "JURIDICO",
+    "USR_EMAIL": "crippel@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 350000,
+    "CTT_XUSER": "000151",
+    "CTT_DESC01": "JURIDICO",
+    "USR_EMAIL": "crippel@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 100300,
+    "CTT_XUSER": "000021",
+    "CTT_DESC01": "ASSESSORIA INDUSTRIAL",
+    "USR_EMAIL": "hmoreira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 100300,
+    "CTT_XUSER": "000021",
+    "CTT_DESC01": "ASSESSORIA INDUSTRIAL",
+    "USR_EMAIL": "hmoreira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 100300,
+    "CTT_XUSER": "000021",
+    "CTT_DESC01": "ASSESSORIA INDUSTRIAL",
+    "USR_EMAIL": "hmoreira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386500,
+    "CTT_XUSER": "000021",
+    "CTT_DESC01": "PESQUISA E DESENVOLVIMENTO NOVO PRODUTO",
+    "USR_EMAIL": "hmoreira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386500,
+    "CTT_XUSER": "000021",
+    "CTT_DESC01": "PESQUISA E DESENVOLVIMENTO NOVO PRODUTO",
+    "USR_EMAIL": "hmoreira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386500,
+    "CTT_XUSER": "000021",
+    "CTT_DESC01": "PESQUISA E DESENVOLVIMENTO NOVO PRODUTO",
+    "USR_EMAIL": "hmoreira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386500,
+    "CTT_XUSER": "000021",
+    "CTT_DESC01": "PESQUISA E DESENVOLVIMENTO NOVO PRODUTO",
+    "USR_EMAIL": "hmoreira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386500,
+    "CTT_XUSER": "000021",
+    "CTT_DESC01": "PESQUISA E DESENVOLVIMENTO NOVO PRODUTO",
+    "USR_EMAIL": "hmoreira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386500,
+    "CTT_XUSER": "000021",
+    "CTT_DESC01": "PESQUISA E DESENVOLVIMENTO NOVO PRODUTO",
+    "USR_EMAIL": "hmoreira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386500,
+    "CTT_XUSER": "000021",
+    "CTT_DESC01": "PESQUISA E DESENVOLVIMENTO NOVO PRODUTO",
+    "USR_EMAIL": "hmoreira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386500,
+    "CTT_XUSER": "000021",
+    "CTT_DESC01": "PESQUISA E DESENVOLVIMENTO NOVO PRODUTO",
+    "USR_EMAIL": "hmoreira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386500,
+    "CTT_XUSER": "000021",
+    "CTT_DESC01": "PESQUISA E DESENVOLVIMENTO NOVO PRODUTO",
+    "USR_EMAIL": "hmoreira@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "VESTIARIOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 150000,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "AEROPORTO",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400050,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "RECURSOS HIDRICOS - IND",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 150000,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "AEROPORTO",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400050,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "RECURSOS HIDRICOS - IND",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "VESTIARIOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400050,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "RECURSOS HIDRICOS - IND",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "VESTIARIOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 150000,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "AEROPORTO",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400050,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "RECURSOS HIDRICOS - IND",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "VESTIARIOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387010,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "ASSUNTOS REGULATORIOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "VESTIARIOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400050,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "RECURSOS HIDRICOS - IND",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400050,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "RECURSOS HIDRICOS - IND",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "VESTIARIOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "VESTIARIOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310010,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "ADMINISTRATIVO IMOVEIS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310010,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "ADMINISTRATIVO IMOVEIS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310010,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "ADMINISTRATIVO IMOVEIS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310010,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "ADMINISTRATIVO IMOVEIS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310010,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "ADMINISTRATIVO IMOVEIS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310010,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "ADMINISTRATIVO IMOVEIS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400050,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "RECURSOS HIDRICOS - IND",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310010,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "ADMINISTRATIVO IMOVEIS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "VESTIARIOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "EXPORTACAO DE PRODUTOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "EXPORTACAO DE PRODUTOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "EXPORTACAO DE PRODUTOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "EXPORTACAO DE PRODUTOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "EXPORTACAO DE PRODUTOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "EXPORTACAO DE PRODUTOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "EXPORTACAO DE PRODUTOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "EXPORTACAO DE PRODUTOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 387030,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "EXPORTACAO DE PRODUTOS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310010,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "ADMINISTRATIVO IMOVEIS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400050,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "RECURSOS HIDRICOS - IND",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 310010,
+    "CTT_XUSER": "000904",
+    "CTT_DESC01": "ADMINISTRATIVO IMOVEIS",
+    "USR_EMAIL": "wbarbosa@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "FABRICA BINGEN - OBRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 980000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "GALPAO CORDOVIL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "MANUTENCAO PREDIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 385000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "ENGENHARIA  CIVIL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "EXPANSAO UNIDADE FRUTAL/MG",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970005,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE DE AGUA PLUVIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970006,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE E EFLUENTES",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970002,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "ESTACIONAMENTO E ARRUAMENTOS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970007,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "OBRAS HIDRAULICAS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970008,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TERRAPLANAGEM",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970009,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PIPE RACKS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970010,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDES ALIMENTACAO ELETRICA/LOGICA/CFTV",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PREDIO ADMINISTRATIVO",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970011,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "INSTALACOES - CO",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PREDIO ADMINISTRATIVO CENTRAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970012,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TRANSPORTADORA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "EXPANSAO UNIDADE FRUTAL/MG",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "FABRICA BINGEN - OBRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 980000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "GALPAO CORDOVIL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970012,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TRANSPORTADORA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "FABRICA BINGEN - OBRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 980000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "GALPAO CORDOVIL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "MANUTENCAO PREDIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "EXPANSAO UNIDADE FRUTAL/MG",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970005,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE DE AGUA PLUVIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970006,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE E EFLUENTES",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970002,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "ESTACIONAMENTO E ARRUAMENTOS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970007,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "OBRAS HIDRAULICAS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970008,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TERRAPLANAGEM",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970009,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PIPE RACKS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970010,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDES ALIMENTACAO ELETRICA/LOGICA/CFTV",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970011,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "INSTALACOES - CO",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PREDIO ADMINISTRATIVO CENTRAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970012,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TRANSPORTADORA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "FABRICA BINGEN - OBRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 980000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "GALPAO CORDOVIL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "MANUTENCAO PREDIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "EXPANSAO UNIDADE FRUTAL/MG",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970007,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "OBRAS HIDRAULICAS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970008,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TERRAPLANAGEM",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970009,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PIPE RACKS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970010,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDES ALIMENTACAO ELETRICA/LOGICA/CFTV",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970011,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "INSTALACOES - CO",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PREDIO ADMINISTRATIVO CENTRAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970012,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TRANSPORTADORA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970005,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE DE AGUA PLUVIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970006,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE E EFLUENTES",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970002,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "ESTACIONAMENTO E ARRUAMENTOS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "FABRICA BINGEN - OBRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PREDIO ADMINISTRATIVO CENTRAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970012,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TRANSPORTADORA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "MANUTENCAO PREDIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 385000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "ENGENHARIA  CIVIL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 980000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "GALPAO CORDOVIL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "MANUTENCAO PREDIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PREDIO ADMINISTRATIVO CENTRAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "EXPANSAO UNIDADE FRUTAL/MG",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970011,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "INSTALACOES - CO",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970010,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDES ALIMENTACAO ELETRICA/LOGICA/CFTV",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970009,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PIPE RACKS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970008,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TERRAPLANAGEM",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970007,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "OBRAS HIDRAULICAS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970006,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE E EFLUENTES",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970005,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE DE AGUA PLUVIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970002,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "ESTACIONAMENTO E ARRUAMENTOS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970011,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "INSTALACOES - CO",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970008,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TERRAPLANAGEM",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970009,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PIPE RACKS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970010,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDES ALIMENTACAO ELETRICA/LOGICA/CFTV",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970005,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE DE AGUA PLUVIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970006,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE E EFLUENTES",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970002,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "ESTACIONAMENTO E ARRUAMENTOS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970007,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "OBRAS HIDRAULICAS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PREDIO ADMINISTRATIVO",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "MANUTENCAO PREDIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970013,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "HELIPONTO  - OBRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970013,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "HELIPONTO  - OBRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "MANUTENCAO PREDIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "EXPANSAO UNIDADE FRUTAL/MG",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970005,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE DE AGUA PLUVIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970006,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE E EFLUENTES",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970002,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "ESTACIONAMENTO E ARRUAMENTOS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970007,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "OBRAS HIDRAULICAS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970008,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TERRAPLANAGEM",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970009,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PIPE RACKS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970010,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDES ALIMENTACAO ELETRICA/LOGICA/CFTV",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970005,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE DE AGUA PLUVIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970006,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE E EFLUENTES",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970002,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "ESTACIONAMENTO E ARRUAMENTOS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970011,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "INSTALACOES - CO",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970008,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TERRAPLANAGEM",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970009,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PIPE RACKS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970010,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDES ALIMENTACAO ELETRICA/LOGICA/CFTV",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PREDIO ADMINISTRATIVO CENTRAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970012,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TRANSPORTADORA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 160000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "HELIPONTO",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970007,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "OBRAS HIDRAULICAS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "EXPANSAO UNIDADE FRUTAL/MG",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "FABRICA BINGEN - OBRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970013,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "HELIPONTO  - OBRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "FABRICA BINGEN - OBRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 980000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "GALPAO CORDOVIL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 980000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "GALPAO CORDOVIL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 979999,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "CONCRETEIRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970005,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE DE AGUA PLUVIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970006,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDE E EFLUENTES",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970002,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "ESTACIONAMENTO E ARRUAMENTOS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970007,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "OBRAS HIDRAULICAS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970013,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "HELIPONTO  - OBRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 384000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "MANUTENCAO PREDIAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970008,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TERRAPLANAGEM",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970009,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PIPE RACKS",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970010,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "REDES ALIMENTACAO ELETRICA/LOGICA/CFTV",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "EXPANSAO UNIDADE FRUTAL/MG",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970011,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "INSTALACOES - CO",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PREDIO ADMINISTRATIVO CENTRAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970012,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TRANSPORTADORA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 979999,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "CONCRETEIRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 979999,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "CONCRETEIRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970011,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "INSTALACOES - CO",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970001,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "PREDIO ADMINISTRATIVO CENTRAL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970012,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "TRANSPORTADORA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970013,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "HELIPONTO  - OBRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 990000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "FABRICA BINGEN - OBRA",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 980000,
+    "CTT_XUSER": "000547",
+    "CTT_DESC01": "GALPAO CORDOVIL",
+    "USR_EMAIL": "amello@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AUTOMACAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "MECANICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "FRIO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "VAPOR",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AR COMPRIMIDO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ADMINISTRATIVO MANUTENCAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497050,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "SUBSTACAO ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AUTOMACAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497050,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "SUBSTACAO ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "MECANICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "FRIO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "VAPOR",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AR COMPRIMIDO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ADMINISTRATIVO MANUTENCAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497050,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "SUBSTACAO ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "FRIO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "VAPOR",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AR COMPRIMIDO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ADMINISTRATIVO MANUTENCAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AUTOMACAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "MECANICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "FRIO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "VAPOR",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AR COMPRIMIDO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AUTOMACAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ADMINISTRATIVO MANUTENCAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "VAPOR",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "FRIO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ADMINISTRATIVO MANUTENCAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "MECANICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497050,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "SUBSTACAO ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AR COMPRIMIDO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497050,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "SUBSTACAO ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AUTOMACAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "MECANICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497035,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2 ENCHIMENTO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497035,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2 ENCHIMENTO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497035,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2 ENCHIMENTO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497035,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2 ENCHIMENTO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497035,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2 ENCHIMENTO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "VAPOR",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AR COMPRIMIDO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ADMINISTRATIVO MANUTENCAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ADMINISTRATIVO MANUTENCAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497050,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "SUBSTACAO ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AUTOMACAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "MECANICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497035,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2 ENCHIMENTO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497050,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "SUBSTACAO ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AUTOMACAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "MECANICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "FRIO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "FRIO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "VAPOR",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AR COMPRIMIDO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "FRIO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "VAPOR",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AR COMPRIMIDO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490040,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ADMINISTRATIVO MANUTENCAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497050,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "SUBSTACAO ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497035,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2 ENCHIMENTO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490010,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "AUTOMACAO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490020,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "ELETRICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490030,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "MECANICA",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497035,
+    "CTT_XUSER": "000686",
+    "CTT_DESC01": "CO2 ENCHIMENTO",
+    "USR_EMAIL": "scubo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311000,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311000,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311000,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311000,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311000,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311040,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "GESTAO PROCESSOS ORGANIZACIONAIS",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311020,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "GESTAO CUSTOS",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311000,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311000,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311050,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA DISTRIBUICAO",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311050,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA DISTRIBUICAO",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311050,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA DISTRIBUICAO",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311050,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA DISTRIBUICAO",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311050,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA DISTRIBUICAO",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311050,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA DISTRIBUICAO",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311050,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA DISTRIBUICAO",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311050,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA DISTRIBUICAO",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311050,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA DISTRIBUICAO",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 311000,
+    "CTT_XUSER": "001103",
+    "CTT_DESC01": "CONTROLADORIA",
+    "USR_EMAIL": "smarcondes@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 360000,
+    "CTT_XUSER": "000486",
+    "CTT_DESC01": "PRICING",
+    "USR_EMAIL": "mgodoi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 360000,
+    "CTT_XUSER": "000486",
+    "CTT_DESC01": "PRICING",
+    "USR_EMAIL": "mgodoi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 360000,
+    "CTT_XUSER": "000486",
+    "CTT_DESC01": "PRICING",
+    "USR_EMAIL": "mgodoi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 360000,
+    "CTT_XUSER": "000486",
+    "CTT_DESC01": "PRICING",
+    "USR_EMAIL": "mgodoi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 360000,
+    "CTT_XUSER": "000486",
+    "CTT_DESC01": "PRICING",
+    "USR_EMAIL": "mgodoi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 360000,
+    "CTT_XUSER": "000486",
+    "CTT_DESC01": "PRICING",
+    "USR_EMAIL": "mgodoi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 360000,
+    "CTT_XUSER": "000486",
+    "CTT_DESC01": "PRICING",
+    "USR_EMAIL": "mgodoi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 360000,
+    "CTT_XUSER": "000486",
+    "CTT_DESC01": "PRICING",
+    "USR_EMAIL": "mgodoi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390000,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "TECNOLOGIA DA INFORMACAO",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390000,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "TECNOLOGIA DA INFORMACAO",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390000,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "TECNOLOGIA DA INFORMACAO",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390000,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "TECNOLOGIA DA INFORMACAO",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390100,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "DESENVOLVIMENTO DE SOLUCOES TECNOLOGICAS",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400015,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "CENTRAL DE GESTAO INDUSTRIAL",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390000,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "TECNOLOGIA DA INFORMACAO",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390110,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "ESCRITORIO GERENCIAMENTO DE PROJETOS",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 389999,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "DEPARTAMENTO DE SISTEMAS E TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 389999,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "DEPARTAMENTO DE SISTEMAS E TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 389999,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "DEPARTAMENTO DE SISTEMAS E TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 389999,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "DEPARTAMENTO DE SISTEMAS E TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 389999,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "DEPARTAMENTO DE SISTEMAS E TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 389999,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "DEPARTAMENTO DE SISTEMAS E TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390200,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "GOVERNANCA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390200,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "GOVERNANCA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390200,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "GOVERNANCA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390200,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "GOVERNANCA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390200,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "GOVERNANCA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390200,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "GOVERNANCA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390300,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "INFRAESTRUTURA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390300,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "INFRAESTRUTURA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390300,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "INFRAESTRUTURA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390300,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "INFRAESTRUTURA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390300,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "INFRAESTRUTURA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390300,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "INFRAESTRUTURA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390000,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "TECNOLOGIA DA INFORMACAO",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390400,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "CENTRAL DE GESTAO DE TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390400,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "CENTRAL DE GESTAO DE TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390400,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "CENTRAL DE GESTAO DE TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390400,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "CENTRAL DE GESTAO DE TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390400,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "CENTRAL DE GESTAO DE TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390400,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "CENTRAL DE GESTAO DE TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390400,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "CENTRAL DE GESTAO DE TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390000,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "TECNOLOGIA DA INFORMACAO",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 389999,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "DEPARTAMENTO DE SISTEMAS E TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390200,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "GOVERNANCA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390300,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "INFRAESTRUTURA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 389999,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "DEPARTAMENTO DE SISTEMAS E TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390200,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "GOVERNANCA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390300,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "INFRAESTRUTURA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390400,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "CENTRAL DE GESTAO DE TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390000,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "TECNOLOGIA DA INFORMACAO",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 389999,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "DEPARTAMENTO DE SISTEMAS E TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390200,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "GOVERNANCA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390300,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "INFRAESTRUTURA DE TI",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 390400,
+    "CTT_XUSER": "000019",
+    "CTT_DESC01": "CENTRAL DE GESTAO DE TECNOLOGIA",
+    "USR_EMAIL": "rbarros@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 550000,
+    "CTT_XUSER": "000188",
+    "CTT_DESC01": "FROTA",
+    "USR_EMAIL": "rtravassos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 550000,
+    "CTT_XUSER": "000188",
+    "CTT_DESC01": "FROTA",
+    "USR_EMAIL": "rtravassos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 550000,
+    "CTT_XUSER": "000188",
+    "CTT_DESC01": "FROTA",
+    "USR_EMAIL": "rtravassos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 550000,
+    "CTT_XUSER": "000188",
+    "CTT_DESC01": "FROTA",
+    "USR_EMAIL": "rtravassos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 550000,
+    "CTT_XUSER": "000188",
+    "CTT_DESC01": "FROTA",
+    "USR_EMAIL": "rtravassos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 550000,
+    "CTT_XUSER": "000188",
+    "CTT_DESC01": "FROTA",
+    "USR_EMAIL": "rtravassos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 550000,
+    "CTT_XUSER": "000188",
+    "CTT_DESC01": "FROTA",
+    "USR_EMAIL": "rtravassos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 550000,
+    "CTT_XUSER": "000188",
+    "CTT_DESC01": "FROTA",
+    "USR_EMAIL": "rtravassos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380000,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "RECURSOS HUMANOS",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380020,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "REFEITORIO",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380000,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "RECURSOS HUMANOS",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380020,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "REFEITORIO",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380000,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "RECURSOS HUMANOS",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380020,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "REFEITORIO",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380000,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "RECURSOS HUMANOS",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380020,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "REFEITORIO",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380020,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "REFEITORIO",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380000,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "RECURSOS HUMANOS",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380020,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "REFEITORIO",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380000,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "RECURSOS HUMANOS",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380000,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "RECURSOS HUMANOS",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380020,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "REFEITORIO",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380050,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "PROGRAMA DE APRENDIZAGEM",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380050,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "PROGRAMA DE APRENDIZAGEM",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380050,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "PROGRAMA DE APRENDIZAGEM",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380050,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "PROGRAMA DE APRENDIZAGEM",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380050,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "PROGRAMA DE APRENDIZAGEM",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380050,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "PROGRAMA DE APRENDIZAGEM",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380050,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "PROGRAMA DE APRENDIZAGEM",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380050,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "PROGRAMA DE APRENDIZAGEM",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380050,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "PROGRAMA DE APRENDIZAGEM",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380020,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "REFEITORIO",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380000,
+    "CTT_XUSER": "001740",
+    "CTT_DESC01": "RECURSOS HUMANOS",
+    "USR_EMAIL": "fmassuia@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 320050,
+    "CTT_XUSER": "000271",
+    "CTT_DESC01": "PLANEJAMENTO TRIBUTARIO",
+    "USR_EMAIL": "gsella@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 381000,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SEGURANCA DO TRABALHO",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380010,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SAUDE OCUPACIONAL",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400040,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "RECICLAGEM",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 381000,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SEGURANCA DO TRABALHO",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380010,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SAUDE OCUPACIONAL",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400040,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "RECICLAGEM",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 381000,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SEGURANCA DO TRABALHO",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380010,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SAUDE OCUPACIONAL",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400040,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "RECICLAGEM",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 381000,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SEGURANCA DO TRABALHO",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380010,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SAUDE OCUPACIONAL",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 381000,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SEGURANCA DO TRABALHO",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380010,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SAUDE OCUPACIONAL",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400040,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "RECICLAGEM",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400040,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "RECICLAGEM",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 381000,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SEGURANCA DO TRABALHO",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380010,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SAUDE OCUPACIONAL",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 381000,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SEGURANCA DO TRABALHO",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380010,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SAUDE OCUPACIONAL",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400040,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "RECICLAGEM",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400040,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "RECICLAGEM",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 381000,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SEGURANCA DO TRABALHO",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380010,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "SAUDE OCUPACIONAL",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400040,
+    "CTT_XUSER": "001311",
+    "CTT_DESC01": "RECICLAGEM",
+    "USR_EMAIL": "cbsilva@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "MATURACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LINHA 6 - CHOPP",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 2",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400030,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ENGENHARIA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LABORATORIO MATERIA-PRIMA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "INSTRUMENTACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 301000,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ADMINISTRATIVO INDUSTRIAL - ADM",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "POCO ARTESIANO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 301000,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ADMINISTRATIVO INDUSTRIAL - ADM",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "MATURACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LINHA 6 - CHOPP",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LABORATORIO MATERIA-PRIMA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "INSTRUMENTACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 2",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400030,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ENGENHARIA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "MATURACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 301000,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ADMINISTRATIVO INDUSTRIAL - ADM",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "POCO ARTESIANO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LINHA 6 - CHOPP",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400030,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ENGENHARIA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 2",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 301000,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ADMINISTRATIVO INDUSTRIAL - ADM",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "POCO ARTESIANO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LABORATORIO MATERIA-PRIMA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "INSTRUMENTACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LABORATORIO MATERIA-PRIMA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400030,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ENGENHARIA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "MATURACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "POCO ARTESIANO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LINHA 6 - CHOPP",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 301000,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ADMINISTRATIVO INDUSTRIAL - ADM",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "POCO ARTESIANO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "MATURACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "INSTRUMENTACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400030,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ENGENHARIA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LABORATORIO MATERIA-PRIMA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LINHA 6 - CHOPP",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 2",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 2",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "INSTRUMENTACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 3",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 3",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 3",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 3",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 3",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 3",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 2",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 2",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LINHA 6 - CHOPP",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400030,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ENGENHARIA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LABORATORIO MATERIA-PRIMA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "INSTRUMENTACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400030,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ENGENHARIA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "INSTRUMENTACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 301000,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ADMINISTRATIVO INDUSTRIAL - ADM",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "POCO ARTESIANO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "MATURACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LABORATORIO MATERIA-PRIMA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 301000,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ADMINISTRATIVO INDUSTRIAL - ADM",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LINHA 6 - CHOPP",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 3",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "MATURACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460600,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "XAROPARIA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 2",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 301000,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ADMINISTRATIVO INDUSTRIAL - ADM",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "POCO ARTESIANO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LINHA 6 - CHOPP",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400030,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "ENGENHARIA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 440010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LABORATORIO MATERIA-PRIMA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 490050,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "INSTRUMENTACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450080,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "LINHA 8 - ENVASE MISTA",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470010,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "POCO ARTESIANO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 3",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "MATURACAO",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460020,
+    "CTT_XUSER": "000125",
+    "CTT_DESC01": "FILTRACAO 3",
+    "USR_EMAIL": "rkenzo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 399000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "ASSESSORIA ADMINISTRATIVA",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 530000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 100000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "ASSESSORIA GERAL",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 375000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS ADM",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 399000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "ASSESSORIA ADMINISTRATIVA",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 100100,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "ASSESSORIA COMERCIAL",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 100000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "ASSESSORIA GERAL",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 399000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "ASSESSORIA ADMINISTRATIVA",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 100100,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "ASSESSORIA COMERCIAL",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 530000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 375000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS ADM",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 530000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 375000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS ADM",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 100000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "ASSESSORIA GERAL",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 100100,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "ASSESSORIA COMERCIAL",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 530000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 375000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS ADM",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 375000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS ADM",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 530000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 535000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMEX",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 535000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMEX",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 535000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMEX",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 535000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMEX",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 535000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMEX",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 535000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMEX",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 375000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS ADM",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 530000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 375000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS ADM",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 535000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMEX",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 530000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 375000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS ADM",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 535000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMEX",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 530000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMPRAS",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 535000,
+    "CTT_XUSER": "000717",
+    "CTT_DESC01": "COMEX",
+    "USR_EMAIL": "emacedo@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380040,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "BOUTIQUE",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 305306,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "CORP COMERCIAL",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 305306,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "CORP COMERCIAL",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 305306,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "CORP COMERCIAL",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380040,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "BOUTIQUE",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 305306,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "CORP COMERCIAL",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380040,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "BOUTIQUE",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380040,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "BOUTIQUE",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380040,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "BOUTIQUE",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 305306,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "CORP COMERCIAL",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 370000,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "PLANEJAMENTO ESTRATEGICO",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 305306,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "CORP COMERCIAL",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 305306,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "CORP COMERCIAL",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 305306,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "CORP COMERCIAL",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380040,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "BOUTIQUE",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380040,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "BOUTIQUE",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 305306,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "CORP COMERCIAL",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 380040,
+    "CTT_XUSER": "000063",
+    "CTT_DESC01": "BOUTIQUE",
+    "USR_EMAIL": "emsantos@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FERMENTACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 1",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FILTRACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETA",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 480000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETDI",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADM GESTAO INDUSTRIAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410030,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "RECEBIMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 3",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410040,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BENEFICIAMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497060,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADUTORAS",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 2",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FERMENTACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 1",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FILTRACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETA",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 480000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETDI",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410030,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "RECEBIMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADM GESTAO INDUSTRIAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 3",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410040,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BENEFICIAMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497060,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADUTORAS",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 2",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FERMENTACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410030,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "RECEBIMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADM GESTAO INDUSTRIAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 1",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FILTRACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETA",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 480000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETDI",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 2",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 3",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410040,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BENEFICIAMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497060,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADUTORAS",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 1",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 2",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 3",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FERMENTACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410030,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "RECEBIMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410040,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BENEFICIAMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADM GESTAO INDUSTRIAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 480000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETDI",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETA",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FILTRACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADM GESTAO INDUSTRIAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497060,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADUTORAS",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410030,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "RECEBIMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FILTRACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETA",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 480000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETDI",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FERMENTACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 1",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410040,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BENEFICIAMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497060,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADUTORAS",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 3",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 2",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460500,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "DESALCOOLIZADOR",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460550,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "DESTILADOR",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADM GESTAO INDUSTRIAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 2",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 2",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADM GESTAO INDUSTRIAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 3",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410030,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "RECEBIMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410040,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BENEFICIAMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497060,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADUTORAS",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497060,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADUTORAS",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FERMENTACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 1",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 3",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410040,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BENEFICIAMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FILTRACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETA",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 480000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETDI",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410030,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "RECEBIMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FERMENTACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 1",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FILTRACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETA",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 480000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETDI",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "AGUA MINERAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "AGUA MINERAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "AGUA MINERAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "AGUA MINERAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "AGUA MINERAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "AGUA MINERAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "AGUA MINERAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "AGUA MINERAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "AGUA MINERAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 2",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 497060,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADUTORAS",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 400010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ADM GESTAO INDUSTRIAL",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410030,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "RECEBIMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430020,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 3",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410040,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BENEFICIAMENTO DE MALTE",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 410010,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FERMENTACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "BRASSAGEM 1",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 460000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "FILTRACAO",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 470000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETA",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 480000,
+    "CTT_XUSER": "000687",
+    "CTT_DESC01": "ETDI",
+    "USR_EMAIL": "mbela@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386000,
+    "CTT_XUSER": "001865",
+    "CTT_DESC01": "NAO ALCOOLICOS",
+    "USR_EMAIL": "jzanetti@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386000,
+    "CTT_XUSER": "001865",
+    "CTT_DESC01": "NAO ALCOOLICOS",
+    "USR_EMAIL": "jzanetti@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386000,
+    "CTT_XUSER": "001865",
+    "CTT_DESC01": "NAO ALCOOLICOS",
+    "USR_EMAIL": "jzanetti@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386000,
+    "CTT_XUSER": "001865",
+    "CTT_DESC01": "NAO ALCOOLICOS",
+    "USR_EMAIL": "jzanetti@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386000,
+    "CTT_XUSER": "001865",
+    "CTT_DESC01": "NAO ALCOOLICOS",
+    "USR_EMAIL": "jzanetti@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450070,
+    "CTT_XUSER": "001865",
+    "CTT_DESC01": "LINHA 7 - AGUA MINERAL",
+    "USR_EMAIL": "jzanetti@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386000,
+    "CTT_XUSER": "001865",
+    "CTT_DESC01": "NAO ALCOOLICOS",
+    "USR_EMAIL": "jzanetti@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386000,
+    "CTT_XUSER": "001865",
+    "CTT_DESC01": "NAO ALCOOLICOS",
+    "USR_EMAIL": "jzanetti@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 450070,
+    "CTT_XUSER": "001865",
+    "CTT_DESC01": "LINHA 7 - AGUA MINERAL",
+    "USR_EMAIL": "jzanetti@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 386000,
+    "CTT_XUSER": "001865",
+    "CTT_DESC01": "NAO ALCOOLICOS",
+    "USR_EMAIL": "jzanetti@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 385050,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "ENGENHARIA ELETROMECANICA",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 430030,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "MICROCERVEJARIA - MOSELA",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970200,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "USINA SOLAR",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970200,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "USINA SOLAR",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970300,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA DE GALAO 3L E 5L",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970300,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA DE GALAO 3L E 5L",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970300,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA DE GALAO 3L E 5L",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970300,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA DE GALAO 3L E 5L",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970300,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA DE GALAO 3L E 5L",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970400,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA ONEWAY - LONG NECK",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970400,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA ONEWAY - LONG NECK",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970400,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA ONEWAY - LONG NECK",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970400,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA ONEWAY - LONG NECK",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970400,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA ONEWAY - LONG NECK",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970400,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA ONEWAY - LONG NECK",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970400,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA ONEWAY - LONG NECK",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970400,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA ONEWAY - LONG NECK",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970400,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA ONEWAY - LONG NECK",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970300,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA DE GALAO 3L E 5L",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970300,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA DE GALAO 3L E 5L",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970300,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA DE GALAO 3L E 5L",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970300,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "INSTALACAO LINHA DE GALAO 3L E 5L",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970200,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "USINA SOLAR",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970200,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "USINA SOLAR",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970200,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "USINA SOLAR",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970200,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "USINA SOLAR",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970200,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "USINA SOLAR",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970200,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "USINA SOLAR",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970100,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "FABRICA MISTA",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970100,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "FABRICA MISTA",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970100,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "FABRICA MISTA",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970100,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "FABRICA MISTA",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970100,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "FABRICA MISTA",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970100,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "FABRICA MISTA",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970100,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "FABRICA MISTA",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970100,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "FABRICA MISTA",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970100,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "FABRICA MISTA",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 970200,
+    "CTT_XUSER": "001264",
+    "CTT_DESC01": "USINA SOLAR",
+    "USR_EMAIL": "mmarcozzi@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 330000,
+    "CTT_XUSER": "000162",
+    "CTT_DESC01": "FINANCEIRO",
+    "USR_EMAIL": "ijunior@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 330000,
+    "CTT_XUSER": "000162",
+    "CTT_DESC01": "FINANCEIRO",
+    "USR_EMAIL": "ijunior@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 330000,
+    "CTT_XUSER": "000162",
+    "CTT_DESC01": "FINANCEIRO",
+    "USR_EMAIL": "ijunior@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 330000,
+    "CTT_XUSER": "000162",
+    "CTT_DESC01": "FINANCEIRO",
+    "USR_EMAIL": "ijunior@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 330000,
+    "CTT_XUSER": "000162",
+    "CTT_DESC01": "FINANCEIRO",
+    "USR_EMAIL": "ijunior@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 330000,
+    "CTT_XUSER": "000162",
+    "CTT_DESC01": "FINANCEIRO",
+    "USR_EMAIL": "ijunior@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 330000,
+    "CTT_XUSER": "000162",
+    "CTT_DESC01": "FINANCEIRO",
+    "USR_EMAIL": "ijunior@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 335000,
+    "CTT_XUSER": "000162",
+    "CTT_DESC01": "OPERAÇÕES FINANCEIRAS",
+    "USR_EMAIL": "ijunior@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 335000,
+    "CTT_XUSER": "000162",
+    "CTT_DESC01": "OPERAÇÕES FINANCEIRAS",
+    "USR_EMAIL": "ijunior@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 330000,
+    "CTT_XUSER": "000162",
+    "CTT_DESC01": "FINANCEIRO",
+    "USR_EMAIL": "ijunior@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 335000,
+    "CTT_XUSER": "000162",
+    "CTT_DESC01": "OPERAÇÕES FINANCEIRAS",
+    "USR_EMAIL": "ijunior@cervejariacidadeimperial.com.br"
+  },
+  {
+    "CTT_CUSTO": 339902,
+    "CTT_XUSER": "002970",
+    "CTT_DESC01": "FLUIG",
+    "USR_EMAIL": "pverginio@cervejariacidadeimperial.com.br"
+  }
+]
