@@ -4,13 +4,13 @@
     "codigoCentroCusto": 390200,
     "logGestor": "002970",
     "centroCusto": "GOVERNANCA DE TI",
-    "Gestor aprovador": "pverginio@cervejariacidadeimperial.com.br"
+    "gestorAprovador": "pverginio@cervejariacidadeimperial.com.br"
   },
   {
     "filial": 302030,
     "codigoCentroCusto": 520000,
     "logGestor": "002864",
     "centroCusto": "ARMAZEM",
-    "Gestor aprovador": "gpovoa@cervejariacidadeimperial.com.br"
+    "gestorAprovador": "gpovoa@cervejariacidadeimperial.com.br"
   }
 ]
