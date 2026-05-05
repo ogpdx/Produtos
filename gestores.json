@@ -12,5 +12,12 @@
     "logGestor": "002864",
     "centroCusto": "ARMAZEM",
     "gestorAprovador": "gpovoa@cervejariacidadeimperial.com.br"
-  }
+  },
+   {
+      "filial": 302030,
+      "codigoCentroCusto": 390000,
+      "logGestor": "2136",
+      "centroCusto": "TECNOLOGIA DA INFORMAÇAO",
+      "gestorAprovador": "vluz@cervejariacidadeimperial.com.br"
+   }
 ]
