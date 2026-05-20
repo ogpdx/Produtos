@@ -19,5 +19,12 @@
       "logGestor": "002136",
       "centroCusto": "TECNOLOGIA DA INFORMAÇAO",
       "gestorAprovador": "vluz@cervejariacidadeimperial.com.br"
+   },
+   {
+      "filial": 302030,
+      "codigoCentroCusto": 390100,
+      "logGestor": "002371",
+      "centroCusto": "DESENVOLVIMENTO DE SOLUCOES TECNOLOGICAS",
+      "gestorAprovador": "gssilva@cervejariacidadeimperial.com.br"
    }
 ]
