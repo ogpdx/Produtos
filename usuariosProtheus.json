@@ -1,0 +1,55 @@
+{
+  "origem": "PROTHEUS_SRA_MOCK",
+  "geradoEm": "2026-10-06T00:00:00-03:00",
+  "funcionarios": [
+    {
+      "filial": "302030",
+      "matricula": "009901",
+      "nome": "Usuario Teste Integracao Um",
+      "email": "teste.integracao01@cervejariacidadeimperial.com.br",
+      "login": "teste.integracao01",
+      "cpf": "00000000191",
+      "centroCusto": "390200",
+      "funcao": "ANALISTA ADMINISTRATIVO",
+      "tipo": "ADM",
+      "situacao": "",
+      "dataAdmissao": "20261001"
+    },
+    {
+      "filial": "302030",
+      "matricula": "009902",
+      "nome": "Usuario Teste Integracao Dois",
+      "email": "teste.integracao02@cervejariacidadeimperial.com.br",
+      "cpf": "00000000272",
+      "centroCusto": "390200",
+      "funcao": "ASSISTENTE ADMINISTRATIVO",
+      "tipo": "ADM",
+      "situacao": "",
+      "dataAdmissao": "20261001"
+    },
+    {
+      "filial": "302030",
+      "matricula": "009903",
+      "nome": "Usuario Teste Operacional",
+      "email": "teste.integracao03@cervejariacidadeimperial.com.br",
+      "cpf": "00000000353",
+      "centroCusto": "210100",
+      "funcao": "OPERADOR DE PRODUCAO",
+      "tipo": "OPERACIONAL",
+      "situacao": "",
+      "dataAdmissao": "20261001"
+    },
+    {
+      "filial": "302030",
+      "matricula": "009904",
+      "nome": "Usuario Teste Demitido",
+      "email": "teste.integracao04@cervejariacidadeimperial.com.br",
+      "cpf": "00000000434",
+      "centroCusto": "390200",
+      "funcao": "ANALISTA ADMINISTRATIVO",
+      "tipo": "ADM",
+      "situacao": "D",
+      "dataAdmissao": "20250101"
+    }
+  ]
+}
